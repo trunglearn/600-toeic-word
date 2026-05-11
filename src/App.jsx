@@ -1,5 +1,17 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import data from "../data.json";
+import {
+  useCallback,
+  useEffect,
+  useLayoutEffect,
+  useMemo,
+  useRef,
+  useState,
+} from "react";
+import {
+  DECK_PV200,
+  DECK_TABS,
+  DECK_VOCAB,
+  loadCompletePvDeck,
+} from "./datasets.js";
 
 const esc = (s) =>
   String(s)
@@ -19,38 +31,78 @@ const shuffle = (arr) => {
 };
 
 const fillEx = (example, word) => {
-  const p = example.split("_____");
-  if (p.length < 2) return `${esc(example)} <strong>${esc(word)}</strong>`;
-  let h = `${esc(p[0])}<strong>${esc(word)}</strong>`;
+  const ex = String(example ?? "");
+  const w = String(word ?? "");
+  const p = ex.split("_____");
+  if (p.length < 2) return `${esc(ex)} <strong>${esc(w)}</strong>`;
+  let h = `${esc(p[0])}<strong>${esc(w)}</strong>`;
   for (let k = 1; k < p.length; k++) h += esc(p[k]);
   return h;
 };
 
 const filterIndices = (rows, query) => {
+  const list = Array.isArray(rows) ? rows : [];
   const q = query.trim().toLowerCase();
-  return rows
+  return list
     .map((e, i) => ({ e, i }))
     .filter(
       ({ e }) =>
         !q ||
-        `${e.word} ${e.type_meaning} ${e.example}`.toLowerCase().includes(q)
+        `${e.word} ${e.type_meaning} ${e.example} ${e.extraExample || ""}`
+          .toLowerCase()
+          .includes(q)
     )
     .map((x) => x.i);
 };
 
 export default function App() {
+  const [deck, setDeck] = useState("vocab");
   const [tab, setTab] = useState("f");
   const [filter, setFilter] = useState("");
+  const [completePvRows, setCompletePvRows] = useState(null);
+  const [completePvErr, setCompletePvErr] = useState(null);
+  const pvLoadId = useRef(0);
+
+  const rows = useMemo(() => {
+    if (deck === "completePv") {
+      if (!Array.isArray(completePvRows)) return [];
+      return completePvRows;
+    }
+    if (deck === "vocab") return DECK_VOCAB;
+    return DECK_PV200;
+  }, [deck, completePvRows]);
+
+  useEffect(() => {
+    if (deck !== "completePv") return;
+    if (completePvRows !== null) return;
+    const id = ++pvLoadId.current;
+    loadCompletePvDeck()
+      .then((r) => {
+        if (id !== pvLoadId.current) return;
+        setCompletePvRows(r);
+        setCompletePvErr(null);
+      })
+      .catch((e) => {
+        if (id !== pvLoadId.current) return;
+        setCompletePvRows([]);
+        setCompletePvErr(String(e?.message || e || "Lỗi tải"));
+      });
+  }, [deck, completePvRows]);
+
+  useEffect(() => {
+    if (deck !== "completePv") pvLoadId.current += 1;
+  }, [deck]);
+
+  useEffect(() => {
+    setFilter("");
+  }, [deck]);
+
   const baseOrder = useMemo(
-    () => filterIndices(data, filter),
-    [filter]
+    () => filterIndices(rows, filter),
+    [rows, filter]
   );
 
-  const [order, setOrder] = useState(baseOrder);
-  useEffect(() => {
-    setOrder([...baseOrder]);
-  }, [baseOrder]);
-
+  const [order, setOrder] = useState(() => baseOrder);
   const [flashIdx, setFlashIdx] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [quizIdx, setQuizIdx] = useState(0);
@@ -62,32 +114,48 @@ export default function App() {
   const cardRef = useRef(null);
   const quizInputRef = useRef(null);
 
-  useEffect(() => {
+  useLayoutEffect(() => {
+    setOrder([...baseOrder]);
     setFlashIdx(0);
     setQuizIdx(0);
     setFlipped(false);
-  }, [baseOrder]);
+  }, [deck, baseOrder]);
+
+  const displayOrder = useMemo(() => {
+    const n = rows.length;
+    if (!n) return [];
+    if (!order.length) return baseOrder;
+    if (
+      order.some(
+        (i) => typeof i !== "number" || !Number.isFinite(i) || i < 0 || i >= n
+      )
+    ) {
+      return baseOrder;
+    }
+    return order;
+  }, [order, rows, baseOrder]);
 
   const applyQuiz = useCallback(
     (random) => {
-      if (!order.length) {
+      if (!displayOrder.length) {
         setQuizEntry(null);
         return;
       }
       const raw = random
-        ? order[(Math.random() * order.length) | 0]
-        : order[quizIdx % order.length];
-      setQuizEntry(data[raw]);
+        ? displayOrder[(Math.random() * displayOrder.length) | 0]
+        : displayOrder[quizIdx % displayOrder.length];
+      const entry = rows[raw];
+      setQuizEntry(entry ?? null);
       setQuizRandom(random);
       setQuizInput("");
       setQuizFb(null);
     },
-    [order, quizIdx]
+    [displayOrder, quizIdx, rows]
   );
 
   useEffect(() => {
     if (tab !== "q") return;
-    if (!order.length) {
+    if (!displayOrder.length) {
       setQuizEntry(null);
       return;
     }
@@ -97,11 +165,13 @@ export default function App() {
       return;
     }
     applyQuiz(false);
-  }, [tab, order, quizIdx, applyQuiz]);
+  }, [tab, displayOrder, quizIdx, applyQuiz]);
 
-  const entryAt = order.length
-    ? data[order[Math.min(flashIdx, order.length - 1)]]
+  const entryAt = displayOrder.length
+    ? rows[displayOrder[Math.min(flashIdx, displayOrder.length - 1)]]
     : null;
+
+  const loadingPv = deck === "completePv" && completePvRows === null;
 
   const toggleFlip = () => {
     if (!entryAt) return;
@@ -109,14 +179,16 @@ export default function App() {
   };
 
   const goFlash = (d) => {
-    if (!order.length) return;
-    setFlashIdx((i) => Math.min(order.length - 1, Math.max(0, i + d)));
+    if (!displayOrder.length) return;
+    setFlashIdx((i) =>
+      Math.min(displayOrder.length - 1, Math.max(0, i + d))
+    );
     setFlipped(false);
   };
 
   const onShuffle = () => {
     if (tab === "q") quizAfterShuffleRandom.current = true;
-    if (order.length) setOrder((o) => shuffle([...o]));
+    if (displayOrder.length) setOrder(shuffle([...displayOrder]));
     setFlashIdx(0);
     setQuizIdx(0);
     setFlipped(false);
@@ -129,23 +201,17 @@ export default function App() {
   };
 
   const skipQuiz = () => {
-    setQuizIdx((i) => (i + 1) % Math.max(order.length, 1));
+    setQuizIdx((i) => (i + 1) % Math.max(displayOrder.length, 1));
     quizInputRef.current?.focus();
   };
 
   const openListRow = (rawIdx) => {
-    const i = order.indexOf(rawIdx);
+    const i = displayOrder.indexOf(rawIdx);
     setFlashIdx(i < 0 ? 0 : i);
     setFlipped(false);
     setTab("f");
     queueMicrotask(() => cardRef.current?.focus());
   };
-
-  useEffect(() => {
-    setFlashIdx((i) =>
-      order.length ? Math.min(i, order.length - 1) : 0
-    );
-  }, [order.length]);
 
   useEffect(() => {
     if (tab === "q") quizInputRef.current?.focus();
@@ -157,6 +223,21 @@ export default function App() {
         <h1>VocalWeb</h1>
         <p>Học từ vựng · flashcard & quiz</p>
       </header>
+
+      <div className="tabs deck" role="tablist" aria-label="Bộ học">
+        {DECK_TABS.map(([k, label]) => (
+          <button
+            key={k}
+            type="button"
+            role="tab"
+            aria-selected={deck === k}
+            className={deck === k ? "on" : undefined}
+            onClick={() => setDeck(k)}
+          >
+            {label}
+          </button>
+        ))}
+      </div>
 
       <div className="toolbar">
         <div className="tabs" role="tablist" aria-label="Chế độ">
@@ -193,6 +274,13 @@ export default function App() {
         </div>
       </div>
 
+      {loadingPv ? (
+        <p className="meta pv-banner">Đang tải Complete PV…</p>
+      ) : null}
+      {deck === "completePv" && completePvErr ? (
+        <p className="fb bad pv-banner">{completePvErr}</p>
+      ) : null}
+
       <section className={`panel ${tab === "f" ? "on" : ""}`}>
         <div
           role="button"
@@ -215,10 +303,15 @@ export default function App() {
             }
           }}
         >
-          {!entryAt ? (
+          {loadingPv ? (
+            <>
+              <div className="wd">…</div>
+              <p className="hint">Vui lòng chờ</p>
+            </>
+          ) : !entryAt ? (
             <>
               <div className="wd">—</div>
-              <p className="hint">0/0</p>
+              <p className="hint">0 / 0</p>
             </>
           ) : !flipped ? (
             <>
@@ -234,13 +327,16 @@ export default function App() {
                   __html: fillEx(entryAt.example, entryAt.word),
                 }}
               />
+              {entryAt.extraExample ? (
+                <p className="ex ex-note">{entryAt.extraExample}</p>
+              ) : null}
             </>
           )}
         </div>
         <div className="nav">
           <span className="meta">
-            {order.length
-              ? `${Math.min(flashIdx, order.length - 1) + 1} / ${order.length}`
+            {displayOrder.length
+              ? `${Math.min(flashIdx, displayOrder.length - 1) + 1} / ${displayOrder.length}`
               : "0 / 0"}
           </span>
           <div className="nav-actions">
@@ -272,7 +368,9 @@ export default function App() {
 
       <section className={`panel ${tab === "q" ? "on" : ""}`}>
         <div className="card alt">
-          {!quizEntry ? (
+          {loadingPv ? (
+            <p className="meta">Đang tải…</p>
+          ) : !quizEntry ? (
             <p className="meta">—</p>
           ) : (
             <>
@@ -311,23 +409,26 @@ export default function App() {
           )}
         </div>
         <p className="meta">
-          {!order.length
+          {!displayOrder.length
             ? ""
             : quizRandom
-              ? `rnd · ${order.length}`
-              : `${(quizIdx % order.length) + 1}/${order.length}`}
+              ? `rnd · ${displayOrder.length}`
+              : `${(quizIdx % displayOrder.length) + 1}/${displayOrder.length}`}
         </p>
       </section>
 
       <section className={`panel ${tab === "l" ? "on" : ""}`}>
         <ul className="ul">
-          {!order.length ? (
+          {loadingPv ? (
+            <li className="meta">Đang tải…</li>
+          ) : !displayOrder.length ? (
             <li>—</li>
           ) : (
-            order.map((idx, pos) => {
-              const e = data[idx];
+            displayOrder.map((idx, pos) => {
+              const e = rows[idx];
+              if (!e) return null;
               return (
-                <li key={`${idx}-${pos}`} onClick={() => openListRow(idx)}>
+                <li key={`${deck}-${idx}-${pos}`} onClick={() => openListRow(idx)}>
                   <span className="lw">{e.word}</span>
                   <span className="lm">{e.type_meaning}</span>
                 </li>

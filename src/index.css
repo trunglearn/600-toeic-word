@@ -102,6 +102,17 @@ body {
   color: var(--muted);
 }
 
+.tabs.deck {
+  width: 100%;
+  flex-wrap: wrap;
+  margin-bottom: clamp(0.5rem, 2vw, 0.65rem);
+}
+
+.tabs.deck button {
+  flex: 1 1 auto;
+  min-width: min(100%, 5.5rem);
+}
+
 .toolbar {
   display: flex;
   flex-direction: column;
@@ -325,6 +336,14 @@ section.panel.on {
   font-weight: 600;
 }
 
+.ex-note {
+  margin-top: 0.85rem;
+  padding-top: 0.85rem;
+  border-top: 1px solid var(--border);
+  font-size: clamp(0.85rem, 0.4vw + 0.78rem, 0.95rem);
+  color: rgba(240, 242, 248, 0.88);
+}
+
 .nav {
   display: flex;
   flex-wrap: wrap;
@@ -477,6 +496,27 @@ section.panel.on {
   border-radius: 6px;
   border: 1px solid var(--border);
   background: rgba(0, 0, 0, 0.25);
+}
+
+.pv-banner {
+  margin: 0 0 0.85rem;
+  padding: 0.65rem 0.85rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.err-screen {
+  padding-top: 2rem;
+}
+
+.err-screen h1 {
+  color: var(--bad);
+}
+
+.err-screen p {
+  color: var(--muted);
+  margin: 0 0 1rem;
 }
 
 @media (prefers-reduced-motion: reduce) {
