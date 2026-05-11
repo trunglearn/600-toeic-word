@@ -1,0 +1,3002 @@
+[
+  {
+    "word": "abide by",
+    "type_meaning": "(v) tuân thủ",
+    "example": "Two parties agreed to _____ the judge's decision."
+  },
+  {
+    "word": "agreement",
+    "type_meaning": "(n) hợp đồng, sự thống nhất chung",
+    "example": "According to the _____, the caterer will also supply the flowers for the event."
+  },
+  {
+    "word": "assurance",
+    "type_meaning": "(n) sự đảm bảo",
+    "example": "The sales associate gave his _____ that the missing keyboard would be replaced the next day."
+  },
+  {
+    "word": "cancel",
+    "type_meaning": "(v) huỷ bỏ",
+    "example": "The man _____ed his magazine subscription and got his money back."
+  },
+  {
+    "word": "determine",
+    "type_meaning": "(v) quyết định",
+    "example": "After reading the contract, I was still unable to _____ if our company was liable for back wages."
+  },
+  {
+    "word": "engage",
+    "type_meaning": "(v) thuê, mướn",
+    "example": "We _____ed a salsa band to play at the reception."
+  },
+  {
+    "word": "establish",
+    "type_meaning": "(v) gây dựng nên, thành lập, taọ nên",
+    "example": "The merger of the two companies _____ed a powerful new corporation."
+  },
+  {
+    "word": "obligate",
+    "type_meaning": "(v) bắt tuân thủ, bắt phải tuân theo",
+    "example": "The contractor was _____ed by the contract to work 40 hours a week."
+  },
+  {
+    "word": "party",
+    "type_meaning": "(n) đảng phái, bên, phía (đối tác)",
+    "example": "The _____ies agreed to settlement in their contract dispute."
+  },
+  {
+    "word": "provision",
+    "type_meaning": "(n) điều khoản (hợp đồng)",
+    "example": "The contract contains a _____ to deal with how payments are made if John loses his job."
+  },
+  {
+    "word": "resolve",
+    "type_meaning": "(v) giải quyết (vấn đề)",
+    "example": "The mediator was able to _____ the problem to everyone's satisfaction."
+  },
+  {
+    "word": "specify",
+    "type_meaning": "(v) chỉ rõ, định rõ",
+    "example": "The letter does not _____ which attorney is handing our case."
+  },
+  {
+    "word": "attract",
+    "type_meaning": "(v) thu hút",
+    "example": "The new advertising _____s the wrong kind of customer into the store."
+  },
+  {
+    "word": "compare",
+    "type_meaning": "(v) so sánh",
+    "example": "The price for this brand is high _____ed to the other brands on the market."
+  },
+  {
+    "word": "compete",
+    "type_meaning": "(v) đấu tranh, cạnh tranh",
+    "example": "We _____ed against three other agencies to get this contract."
+  },
+  {
+    "word": "consume",
+    "type_meaning": "(v) tiêu thụ, tiêu dùng",
+    "example": "Chen _____s more than his share of computer time."
+  },
+  {
+    "word": "convince",
+    "type_meaning": "(v) thuyết phục (= persuade)",
+    "example": "The salesman _____ed his customer to buy his entire inventory of pens."
+  },
+  {
+    "word": "current",
+    "type_meaning": "(adj) đang tồn tại, đang thịnh hành",
+    "example": "It is important to read _____ magazines to see how competitors market their products."
+  },
+  {
+    "word": "fad",
+    "type_meaning": "(n) mốt nhất thời",
+    "example": "The mini dress was a _____ once thought to be finished, but now it is making a comeback."
+  },
+  {
+    "word": "inspire",
+    "type_meaning": "(v) truyền cảm hứng",
+    "example": "His painting style was _____ed by the works of the Old Masters."
+  },
+  {
+    "word": "market",
+    "type_meaning": "(v) tiếp thị",
+    "example": "When Omar first began making his chutneys, he _____ed them door-to-door to gourmet shops."
+  },
+  {
+    "word": "persuade",
+    "type_meaning": "(v) thuyết phục (= convince)",
+    "example": "No amount of marketing could _____ Doris to give up her old, but reliable, laundry soap."
+  },
+  {
+    "word": "productive",
+    "type_meaning": "(adj) năng suất, sản lượng cao",
+    "example": "Alonzo is excited about his _____ sales territory."
+  },
+  {
+    "word": "satisfy",
+    "type_meaning": "(v) làm hài lòng",
+    "example": "If you don't know what kind of gift will _____ your friend, think about giving a gift certificate instead."
+  },
+  {
+    "word": "characteristic",
+    "type_meaning": "(adj) đặc tính, đặc điểm",
+    "example": "The cooking pot has features _____ of the band, such as \"stay cool\" handles."
+  },
+  {
+    "word": "consequence",
+    "type_meaning": "(n) hậu quả, kết quả",
+    "example": "As a _____ of not having seen a dentist for several years, Lydia had several cavities."
+  },
+  {
+    "word": "consider",
+    "type_meaning": "(v) cân nhắc, xem xét",
+    "example": "After ____ing all the options, Della decided to buy a used car."
+  },
+  {
+    "word": "cover",
+    "type_meaning": "(v) bao bọc, bao gồm, bảo vệ, che đậy",
+    "example": "Will my medical insurance _____ this surgery?"
+  },
+  {
+    "word": "expire",
+    "type_meaning": "(v) hết hạn",
+    "example": "The warranty protection on this product will _____ on year after the date of purchase."
+  },
+  {
+    "word": "frequently",
+    "type_meaning": "(adv) thường xuyên",
+    "example": "Applicances _____ come with a one-year warranty."
+  },
+  {
+    "word": "imply",
+    "type_meaning": "(v) ám chỉ",
+    "example": "The travel agent _____ed that our hotel was not in the safest part of the city, but, when pressed for details, he said the location was fine."
+  },
+  {
+    "word": "promise",
+    "type_meaning": "(v) hứa hẹn, đảm bảo",
+    "example": "The sales associate _____ed that our new mattress would arrive by noon on Sunday."
+  },
+  {
+    "word": "protect",
+    "type_meaning": "(v) bảo vệ",
+    "example": "Consumer laws are designed to _____the public against unscrupulous vendors."
+  },
+  {
+    "word": "reputation",
+    "type_meaning": "(n) danh tiếng, thương hiệu",
+    "example": "The company knew that the _____ of its products was the most important asset it had."
+  },
+  {
+    "word": "require",
+    "type_meaning": "(v) yêu cầu, đòi hỏi",
+    "example": "The law requires that each item clearly display the warranty information."
+  },
+  {
+    "word": "vary",
+    "type_meaning": "(v) thay đổi, biến đổi",
+    "example": "The amount of protection offered by different policies will _____."
+  },
+  {
+    "word": "address",
+    "type_meaning": "(v) hướng tới, nhắm đến",
+    "example": "Marco's business plan _____es the needs of small business owners."
+  },
+  {
+    "word": "avoid",
+    "type_meaning": "(v) tránh",
+    "example": "To _____ going out of business, owners should prepare a proper business plan."
+  },
+  {
+    "word": "demonstrate",
+    "type_meaning": "(v) chứng minh, làm sáng tỏ",
+    "example": "The professor _____ed through a case study that a business plan can impress a lender."
+  },
+  {
+    "word": "develop",
+    "type_meaning": "(v) mở rộng, phát triển, cải tiến",
+    "example": "The restaurant Wanda opened ten years ago has _____ed into a national chain."
+  },
+  {
+    "word": "evaluate",
+    "type_meaning": "(v) đánh giá",
+    "example": "It's important to _____ our competition when making business plan."
+  },
+  {
+    "word": "gather",
+    "type_meaning": "(v) thu thập, tập hợp",
+    "example": "We _____ed information for our plan from many sources."
+  },
+  {
+    "word": "offer",
+    "type_meaning": "(v) đưa ra",
+    "example": "We _____ed the job of writing the business plan to Devon."
+  },
+  {
+    "word": "primary",
+    "type_meaning": "(adj) chính, chủ yếu, ưu tiên",
+    "example": "The _____ reason for writing a business plan is to avoid common errors."
+  },
+  {
+    "word": "risk",
+    "type_meaning": "(n) nguy cơ, mối nguy hiểm",
+    "example": "Expanding into a new market is a big _____."
+  },
+  {
+    "word": "strategy",
+    "type_meaning": "(n) chiến lược",
+    "example": "A business plan is a ____ for running a business and avoiding problems."
+  },
+  {
+    "word": "strong",
+    "type_meaning": "(adj) mạnh mẽ, kiên cố, vững chắc",
+    "example": "Even in a _____ economic climate, many businesses fail, so do your planning carefully."
+  },
+  {
+    "word": "substitute",
+    "type_meaning": "(v) thay thế, thế chỗ",
+    "example": "Don't try to _____ intuition for good planning."
+  },
+  {
+    "word": "accommodate",
+    "type_meaning": "(v) dàn xếp, đáp ứng, làm thích nghi",
+    "example": "The meeting room was large enough to _____ the various needs of the groups using it."
+  },
+  {
+    "word": "arrangement",
+    "type_meaning": "(n) sự sắp xếp, kế hoạch",
+    "example": "The travel _____ were taken care of by Sara, Mr. Billings's capable assistant."
+  },
+  {
+    "word": "association",
+    "type_meaning": "(n) tổ chức, hiệp hội",
+    "example": "Local telephone companies formed an _____ to serve common goals, meet their common needs, and improve efficiency."
+  },
+  {
+    "word": "attend",
+    "type_meaning": "(v) tham gia, hướng tới",
+    "example": "The hotel manager _____ed to all our needs promptly."
+  },
+  {
+    "word": "get in touch",
+    "type_meaning": "(v) liên lạc, liên hệ",
+    "example": "As soon as we arrive at the hotel, we will _____ with the manager about the unexpected guests."
+  },
+  {
+    "word": "hold",
+    "type_meaning": "(v) tổ chức, tiến hành",
+    "example": "She _____s an annual seminar that is very popular."
+  },
+  {
+    "word": "location",
+    "type_meaning": "(n) địa điểm, vị trí",
+    "example": "The _____ of the meeting was changed from the Red room to the Green room."
+  },
+  {
+    "word": "overcrowded",
+    "type_meaning": "(adj) quá đông",
+    "example": "To avoid being _____, we limited the number of guests that members could bring."
+  },
+  {
+    "word": "register",
+    "type_meaning": "(v) đăng ký, ghi danh",
+    "example": "Hotels ask all guests to _____ and give a home address."
+  },
+  {
+    "word": "select",
+    "type_meaning": "(v) chọn",
+    "example": "The winners were _____ed from the conference registrants."
+  },
+  {
+    "word": "session",
+    "type_meaning": "(n) kỳ họp, phiên họp",
+    "example": "The morning _____s tend to fill up first, so sign in early."
+  },
+  {
+    "word": "take part in",
+    "type_meaning": "(v) tham gia, tham dự",
+    "example": "We could not get enough people to _____ the meeting, so we canceled it."
+  },
+  {
+    "word": "access",
+    "type_meaning": "(v) truy cập",
+    "example": "You need a password to _____ your account."
+  },
+  {
+    "word": "allocate",
+    "type_meaning": "(v) phân bổ",
+    "example": "The office manager did not _____ enough money to purchase software."
+  },
+  {
+    "word": "compatible",
+    "type_meaning": "(adj) tương thích",
+    "example": "This operating system is not _____ with this model computer."
+  },
+  {
+    "word": "delete",
+    "type_meaning": "(v) xóa bỏ",
+    "example": "The technicians _____ed all the data on the disk accidentally."
+  },
+  {
+    "word": "display",
+    "type_meaning": "(n) màn hình, hiển thị",
+    "example": "The light on the LCD _____ is to weak."
+  },
+  {
+    "word": "duplicate",
+    "type_meaning": "(v) tạo bản sao",
+    "example": "Before you leave, please _____ that file by making a copy on a floppy disk."
+  },
+  {
+    "word": "fail",
+    "type_meaning": "(v) thất bại, hỏng, làm sai",
+    "example": "The new printer _____ed to function properly."
+  },
+  {
+    "word": "figure out",
+    "type_meaning": "(v) giải quyết, hiểu ra",
+    "example": "We _____ ed _____ that it would take us at least ten minutes to download the file."
+  },
+  {
+    "word": "ignore",
+    "type_meaning": "(v) bỏ qua, lờ đi",
+    "example": "Don't _____ the technician's advice when connecting cables."
+  },
+  {
+    "word": "search",
+    "type_meaning": "(v) tìm kiếm",
+    "example": "The computer _____ed for all names that began with W."
+  },
+  {
+    "word": "shut down",
+    "type_meaning": "(v) tắt",
+    "example": "Please _____ the computer before you leave."
+  },
+  {
+    "word": "warn",
+    "type_meaning": "(v) cảnh báo",
+    "example": "The flashing light ____s the computer user if the battery is low."
+  },
+  {
+    "word": "affordable",
+    "type_meaning": "(adj) giá cả phải chăng",
+    "example": "The company's first priority was to find an _____ phone system."
+  },
+  {
+    "word": "as need",
+    "type_meaning": "(adv) khi cần",
+    "example": "The courier service did not come everyday, only _____."
+  },
+  {
+    "word": "be in charge of",
+    "type_meaning": "(v) chịu sự điều khiển , có trách nhiệm",
+    "example": "He appointed someone to _____ maitaining a supply of paper in the fax machine."
+  },
+  {
+    "word": "capacity",
+    "type_meaning": "(n) sức chứa",
+    "example": "The new conference room is much larger and has a _____ of one hundred people."
+  },
+  {
+    "word": "durable",
+    "type_meaning": "(adj) bền",
+    "example": "These chair were more expensive, in the long run, but also more _____."
+  },
+  {
+    "word": "initiative",
+    "type_meaning": "(n) bước đầu, sự sáng tạo; vai trò tích cực",
+    "example": "Employees are encouraged to take the _____ and share their ideas with management."
+  },
+  {
+    "word": "physical",
+    "type_meaning": "(adj) thuộc thể chất, thuộc vật chất",
+    "example": "The _____ presence of a computer expert is better than telephone support."
+  },
+  {
+    "word": "provider",
+    "type_meaning": "(n) nhà cung cấp",
+    "example": "The department was extremely pleased with the service they received from the phone _____."
+  },
+  {
+    "word": "recur",
+    "type_meaning": "(v) quay lại, lặp lại",
+    "example": "The managers did not want that particular error to _____."
+  },
+  {
+    "word": "reduction",
+    "type_meaning": "(n) sự giảm bớt, sự thu nhỏ",
+    "example": "The _____ in office staff has made it necessary to automate more job functions."
+  },
+  {
+    "word": "stay on top of",
+    "type_meaning": "(v) cập nhật/ nắm bắt thông tin mới nhất",
+    "example": "In this industry, you must _____ current developments."
+  },
+  {
+    "word": "stock",
+    "type_meaning": "(n) nguồn hàng, nguồn cung cấp; (v) tích trữ",
+    "example": "The office's _____ of toner for the fax machine was quickly running out."
+  },
+  {
+    "word": "appreciate",
+    "type_meaning": "(v) hiểu, nhận thức rõ",
+    "example": "He didn't _____ the complexity of the operation until he had to do it by himself."
+  },
+  {
+    "word": "be exposed to",
+    "type_meaning": "(v) đúc kết kinh nghiệm",
+    "example": "Mergers require that employees _____ to difference business practices."
+  },
+  {
+    "word": "bring in",
+    "type_meaning": "(v) thuê mướn, dẫn tới",
+    "example": "The company president wanted to _____ an efficiency consultant."
+  },
+  {
+    "word": "casual",
+    "type_meaning": "(adj) thông thường",
+    "example": "Fridays are a _____ dress day in the office."
+  },
+  {
+    "word": "code",
+    "type_meaning": "(n) lề thói, tập quán",
+    "example": "Even the most traditional companies are changing their dress ____ to something less formal."
+  },
+  {
+    "word": "glimpse",
+    "type_meaning": "(n) cái nhìn thoáng qua",
+    "example": "The secretary caught a _____ of her new boss as she was leaving the office."
+  },
+  {
+    "word": "made of",
+    "type_meaning": "(v) làm từ, gồm có",
+    "example": "This job will really test what you are _____."
+  },
+  {
+    "word": "out of",
+    "type_meaning": "(adj) hết",
+    "example": "Orders should be placed before you run _____ the supplies."
+  },
+  {
+    "word": "outdated",
+    "type_meaning": "(adj) lỗi thời",
+    "example": "Before you do a mailing, make sure that none of the addresses are _____."
+  },
+  {
+    "word": "practice",
+    "type_meaning": "(n) bài luyện, phương pháp làm",
+    "example": "Office _____s may very greatly from one company to another."
+  },
+  {
+    "word": "reinforce",
+    "type_meaning": "(v) tăng cường, củng cố",
+    "example": "The employees were expected to _____ what they had learnt at the workshop by trying it out in the workplace."
+  },
+  {
+    "word": "verbal",
+    "type_meaning": "(adj) bằng lời",
+    "example": "Excellent _____ skills are expected in the marketing department."
+  },
+  {
+    "word": "disk",
+    "type_meaning": "(n) đĩa, ổ đĩa",
+    "example": "It is important to make a backup _____ of all documents on your computer."
+  },
+  {
+    "word": "facilitate",
+    "type_meaning": "(v): làm cho thuận tiện",
+    "example": "The new computer program _____ed the scheduling of appointments."
+  },
+  {
+    "word": "network",
+    "type_meaning": "(n) mạng lưới, hệ thống",
+    "example": "There is a _____ of women professionals that meets once a month for drinks."
+  },
+  {
+    "word": "popularity",
+    "type_meaning": "(n) tính phổ biến, sự ưa chuộng của quần chúng",
+    "example": "After the new commercials began running, the _____ of the batteries increased significantly."
+  },
+  {
+    "word": "process",
+    "type_meaning": "(n) quá trình; (v) xử lý theo tiến trình",
+    "example": "There is a _____ for determining why your computer if malfunctioning."
+  },
+  {
+    "word": "replace",
+    "type_meaning": "(v) thay thế",
+    "example": "I've _____ed the hard drive that was malfunctioning."
+  },
+  {
+    "word": "revolution",
+    "type_meaning": "(n) cuộc cách mạng, sự xoay vòng",
+    "example": "My CD player is broken; the disk cannot make a complete _____ around the magnet."
+  },
+  {
+    "word": "sharp",
+    "type_meaning": "(adj) nhọn, sắc, đột ngột, (người) thông minh",
+    "example": "The new employee is extremely _____, being able to learn the new program in a few days"
+  },
+  {
+    "word": "skills",
+    "type_meaning": "(n) sự khéo léo, sự tinh xảo, tay nghệ cao",
+    "example": "The software developer has excellent technical _____, and would be an asset to our software programming team."
+  },
+  {
+    "word": "software",
+    "type_meaning": "(n) phầm mềm, chương trình chạy trên máy tính",
+    "example": "The new _____ allows me to intergrate tables and spreadsheets into my reports."
+  },
+  {
+    "word": "storage",
+    "type_meaning": "(n) nơi lưu trữ, kho",
+    "example": "The double-sided disk has _____ storage room for up to 500 megabytes of data."
+  },
+  {
+    "word": "technical",
+    "type_meaning": "(adj) chuyên môn, kỹ thuật",
+    "example": "The computer can only be repaired by someone with _____ knowledge."
+  },
+  {
+    "word": "assemble",
+    "type_meaning": "(v) thu thập, tụ tập",
+    "example": "Her assistant copied and _____ed the documents."
+  },
+  {
+    "word": "beforehand",
+    "type_meaning": "(adv) sẵn sàng trước",
+    "example": "To speed up the mailing, we should prepare the label _____."
+  },
+  {
+    "word": "complicated",
+    "type_meaning": "(adj) phức tạp, khó hiểu",
+    "example": "This explanation is too _____; try to make it simple."
+  },
+  {
+    "word": "courier",
+    "type_meaning": "(n) người đưa thư",
+    "example": "We hired a _____ to deliver the parkage."
+  },
+  {
+    "word": "express",
+    "type_meaning": "(adj) nhanh, hoả tốc (thư); rõ ràng",
+    "example": "_____ mail costs more than regular mail service, but it is more efficient."
+  },
+  {
+    "word": "fold",
+    "type_meaning": "(v) gấp giấy (thư)",
+    "example": "_____ the letter into three parts before stuffing it into the envelope."
+  },
+  {
+    "word": "layout",
+    "type_meaning": "(n) định dạng trang giấy (bản in)",
+    "example": "We had to change the _____ when we changed the size of the paper."
+  },
+  {
+    "word": "mention",
+    "type_meaning": "(v) đề cập tới; (n) sự nói đến, sự nhắc tới",
+    "example": "There was no _____ of the cost in the proposal."
+  },
+  {
+    "word": "petition",
+    "type_meaning": "(n) đơn yêu cầu, kiến nghị",
+    "example": "The _____ was photocopied for the workers who will take the copies to collect the necessary signatures."
+  },
+  {
+    "word": "proof",
+    "type_meaning": "(v) tìm lỗi",
+    "example": "This letter was not _____ed very carefully, it is full of typing mistakes."
+  },
+  {
+    "word": "registered",
+    "type_meaning": "(adj) đã đăng ký, bảo đảm (thư)",
+    "example": "Send this parkage by _____ mail and insure it for $500."
+  },
+  {
+    "word": "revise",
+    "type_meaning": "(v) duyệt lại, sửa đổi",
+    "example": "The brochure was _____ed several times before it was sent to printer."
+  },
+  {
+    "word": "abundant",
+    "type_meaning": "(adj) nhiều, phong phú, thừa thãi",
+    "example": "The recruiter was surprised at the __(n)___ of qualified applicants."
+  },
+  {
+    "word": "accomplishment",
+    "type_meaning": "(n) thành tựu, sự hoàn thành",
+    "example": "In honor of her _____s, the manager was promoted."
+  },
+  {
+    "word": "bring together",
+    "type_meaning": "(v) tập hợp, thu thập",
+    "example": "Every year, the firm _____ its top lawyers and its newest recruits for a trainning session."
+  },
+  {
+    "word": "candidate",
+    "type_meaning": "(n) ứng cử viên, người dự tuyển",
+    "example": "The recruiter will interview all _____s for the position."
+  },
+  {
+    "word": "come up with",
+    "type_meaning": "(v) phát minh, tạo ra",
+    "example": "In order for that small business to succeed, it needs to _____ a new strategy."
+  },
+  {
+    "word": "commensurate",
+    "type_meaning": "(adj) đúng với, xứng với, tương ứng với",
+    "example": "Generally the first year's salary is _____ with experience and education level."
+  },
+  {
+    "word": "match",
+    "type_meaning": "(n) sự phù hợp, người ngang sức",
+    "example": "Finding a good _____ is never easy."
+  },
+  {
+    "word": "profile",
+    "type_meaning": "(n) sơ lược tiểu sử",
+    "example": "The recruiter told him that, unfortunately, he did not fit the job _____."
+  },
+  {
+    "word": "qualification",
+    "type_meaning": "(n) trình độ chuyên môn; (sn) các giấy tờ chứng nhận khả năng",
+    "example": "The applicant had so many _____s, the company created a new position for her."
+  },
+  {
+    "word": "recruit",
+    "type_meaning": "(v) tuyển mộ (thêm nhân viên)",
+    "example": "The company's policy is to _____ new employees once a year."
+  },
+  {
+    "word": "submit",
+    "type_meaning": "(v) nộp, trình",
+    "example": "_____ your resume to the human resouces department."
+  },
+  {
+    "word": "time-consuming",
+    "type_meaning": "(adj) dài dòng, tốn thời gian",
+    "example": "Even though it was _____, all of the participants felt that the open house was very worthwhile."
+  },
+  {
+    "word": "ability",
+    "type_meaning": "(n) năng lực, khả năng",
+    "example": "The _____ to work with others is a key requirement."
+  },
+  {
+    "word": "apply",
+    "type_meaning": "(v) nộp hồ sơ ứng tuyển",
+    "example": "The college graduate _____ed for three jobs and received three offers."
+  },
+  {
+    "word": "background",
+    "type_meaning": "(n) quá trình học tập",
+    "example": "Your _____ in the publishing industry is a definite asset for this job."
+  },
+  {
+    "word": "be ready for",
+    "type_meaning": "(v) sẵn sàng cho, đã chuẩn bị cho",
+    "example": "The employer wasn't ____ for the applicant's questions."
+  },
+  {
+    "word": "call in",
+    "type_meaning": "(v) yêu cầu, gọi tới",
+    "example": "The human resources manager _____all the qualified applicants for a second interview."
+  },
+  {
+    "word": "confidence",
+    "type_meaning": "(n) sự tự tin",
+    "example": "Good applicants show _____ during an interview."
+  },
+  {
+    "word": "constantly",
+    "type_meaning": "(adj) liên tục",
+    "example": "The company is _____ looking for highly trained employees."
+  },
+  {
+    "word": "expert",
+    "type_meaning": "(n) chuyên gia, chuyên viên",
+    "example": "The candidate demonstrated at the interview that he was an _____ in marketing."
+  },
+  {
+    "word": "follow up",
+    "type_meaning": "(v) bước tiếp, tiếp tục",
+    "example": "Always _____ an interview with a thank-you note."
+  },
+  {
+    "word": "hesitate",
+    "type_meaning": "(v) ngập ngừng, do dự, không nhất quyết,",
+    "example": "Don't _____ to call if you have any questions connecting the job."
+  },
+  {
+    "word": "present",
+    "type_meaning": "(v) giới thiệu, trình bày, thể hiện",
+    "example": "The candidate _____ed her qualifications so well that the employer offered her a job on the spot."
+  },
+  {
+    "word": "weakness",
+    "type_meaning": "(n) nhược điểm",
+    "example": "The candidate's only _____ seems to be her lack of experience in fund-raising."
+  },
+  {
+    "word": "conduct",
+    "type_meaning": "(v) tiến hành, thể hiện, cư xử; (n) cách cư xử",
+    "example": "Interviews were _____ed over a period of three weeks."
+  },
+  {
+    "word": "generate",
+    "type_meaning": "(v) tạo ra, sản xuất ra",
+    "example": "The new training program _____ed a lot of interest among employees."
+  },
+  {
+    "word": "hire",
+    "type_meaning": "(v) thuê, tuyển dụng; (n) người làm thuê",
+    "example": "She was _____ed after her third interview."
+  },
+  {
+    "word": "keep up with",
+    "type_meaning": "(v) giữ liên lạc với, bắt kịp với",
+    "example": "Employees are encouraged to take courses in order to _____ new developments."
+  },
+  {
+    "word": "look up to",
+    "type_meaning": "(v) ngưỡng mộ",
+    "example": "Staff members _____ the director because he had earned their respect over the year."
+  },
+  {
+    "word": "mentor",
+    "type_meaning": "(n) người cố vấn",
+    "example": "The _____ helped her make some decisions about combining career and family."
+  },
+  {
+    "word": "on track",
+    "type_meaning": "(adj) đúng kế hoạch, đúng lịch, tập trung",
+    "example": "If we stay _____, the meeting should be finished at 9:30."
+  },
+  {
+    "word": "reject",
+    "type_meaning": "(v) từ chối, bác bỏ",
+    "example": "Even though Mr. Lukin _____ed their offer, they remain in contact."
+  },
+  {
+    "word": "set up",
+    "type_meaning": "(v) sắp xếp, xếp đặt",
+    "example": "_____ a time and place for the meeting and then inform everyone who is involved."
+  },
+  {
+    "word": "success",
+    "type_meaning": "(n) sự thành công, thắng lợi",
+    "example": "When the manager won an award, he attributed his _____ to his colleagues."
+  },
+  {
+    "word": "training",
+    "type_meaning": "(n) sự đào tạo",
+    "example": "The new hire received such good _____ that, within a week, she was as productive as the other workers."
+  },
+  {
+    "word": "update",
+    "type_meaning": "(v) cập nhật; (n) thông tin mới nhất",
+    "example": "Our latest _____ shows that business is down 15 percent."
+  },
+  {
+    "word": "basis",
+    "type_meaning": "(n) nền tảng, cơ sở, căn cứ",
+    "example": "The manager didn't have any _____for firing the employee."
+  },
+  {
+    "word": "be aware of",
+    "type_meaning": "(v) nhận thức được, ý thức được",
+    "example": "The new staff member wasn't _____ the company's position on working a second job."
+  },
+  {
+    "word": "benefit",
+    "type_meaning": "(n) lợi ích; (v) được lợi",
+    "example": "We all ______ from company's policy of semiannual reviews."
+  },
+  {
+    "word": "compensate",
+    "type_meaning": "(v) đền bù, bồi thường, trả cho",
+    "example": "The company will _____ employees for any travel expenses."
+  },
+  {
+    "word": "delicate",
+    "type_meaning": "(adj) tinh tế, tế nhị",
+    "example": "The manager _____ly asked about the health of his client."
+  },
+  {
+    "word": "eligible",
+    "type_meaning": "(adj) đủ tư cách, thích hợp",
+    "example": "Some employees may be _____ for the tuition reimbursement plan."
+  },
+  {
+    "word": "flexible",
+    "type_meaning": "(adj) linh hoạt, mềm dẻo",
+    "example": "Younger workers tend to be more _____ with their work schedules."
+  },
+  {
+    "word": "negotiate",
+    "type_meaning": "(v) đàm phán",
+    "example": "You must know what you want and what you can accept when you _____ a salary."
+  },
+  {
+    "word": "raise",
+    "type_meaning": "(n) sự nâng, sự tăng (lương)",
+    "example": "With his _____, Mr. Nam was able to afford to buy a new car."
+  },
+  {
+    "word": "retire",
+    "type_meaning": "(v) về hưu",
+    "example": "Many people would like to win the lottery and _____."
+  },
+  {
+    "word": "vested",
+    "type_meaning": "(adj) được trao cho, được quyền",
+    "example": "The day that Ms. Weng becomes fully _____ in the retirement plan, she gave her two weeks' notice."
+  },
+  {
+    "word": "wage",
+    "type_meaning": "(n) tiền công; lương (trả theo giờ làm việc)",
+    "example": "Hourly _____ have increased by 20 percent over the last two years."
+  },
+  {
+    "word": "achieve",
+    "type_meaning": "(v) thành công, đạt mục tiêu",
+    "example": "I hope to _____ as much as you have in short time with the company."
+  },
+  {
+    "word": "contribute",
+    "type_meaning": "(v) đóng góp, góp phần",
+    "example": "Make sure your boss is aware of the work you _____ed to the project."
+  },
+  {
+    "word": "dedication",
+    "type_meaning": "(n) sự cống hiến",
+    "example": "The director's _____ to a high-quality product has motivated many of his employees."
+  },
+  {
+    "word": "look forward to",
+    "type_meaning": "(v) háo hức, chờ đợi, mong ngóng",
+    "example": "We _____ seeing you at the next meeting."
+  },
+  {
+    "word": "looked to",
+    "type_meaning": "(v) phụ thuộc vào, dựa vào",
+    "example": "The workers always ______ him to settle their disagreements."
+  },
+  {
+    "word": "loyal",
+    "type_meaning": "(adj) trung thành, đáng tin cậy",
+    "example": "Even though your assistant is _____, you have to question his job performance."
+  },
+  {
+    "word": "merit",
+    "type_meaning": "(n) sự tuyệt vời, giá trị cao",
+    "example": "Your work has improved tremendously and is of great _____."
+  },
+  {
+    "word": "obvious",
+    "type_meaning": "(adj) rõ ràng, hiển nhiên",
+    "example": "In many countries, it is very _____ who will be promoted."
+  },
+  {
+    "word": "productive",
+    "type_meaning": "(adj) năng suất, hiệu quả",
+    "example": "The managers had a very _____ meeting and we able to solve many of the problems."
+  },
+  {
+    "word": "promote",
+    "type_meaning": "(v) thăng chức, đề bạt; đưa ra",
+    "example": "Even though the sales associate had a good year, it wasn't possible to _____ him."
+  },
+  {
+    "word": "recognition",
+    "type_meaning": "(n) sự công nhận, sự thừa nhận",
+    "example": "The president's personal assistant was finally given the _____ that she has deserved for many years."
+  },
+  {
+    "word": "value",
+    "type_meaning": "(n) giá trị, ý nghĩa",
+    "example": "It is difficult to put a ____ on the work that an employee does."
+  },
+  {
+    "word": "bargain",
+    "type_meaning": "(n) sự mặc cả, món hời",
+    "example": "We were thrilled with the _____s we found at the clothing sale."
+  },
+  {
+    "word": "bear",
+    "type_meaning": "(v) chịu, chịu đựng",
+    "example": "Moya doesn't like crowds so she cannot _____ to shop during the holiday rush."
+  },
+  {
+    "word": "behavior",
+    "type_meaning": "(n) cách cư xử",
+    "example": "Annu is conducting a survey on whether consumer _____differs between men and women."
+  },
+  {
+    "word": "checkout",
+    "type_meaning": "(n) sự thanh toán tiền (khách sạn, ...), nơi thanh toán tiền, hành động thanh toán tiền...",
+    "example": "The line at this _____ is too long, so let's look for another."
+  },
+  {
+    "word": "comfort",
+    "type_meaning": "(n) sự hài lòng, sự thuận tiện; (sn) tiện nghi",
+    "example": "I like to dress for comfort if i'm spending the day shopping."
+  },
+  {
+    "word": "expand",
+    "type_meaning": "(v) mở rộng (phạm vị)",
+    "example": "The new manager has significantly _____ed the store's inventory."
+  },
+  {
+    "word": "explore",
+    "type_meaning": "(v) khảo sát tỉ mỉ",
+    "example": "The colector likes to _____ antique shops looking for bargains."
+  },
+  {
+    "word": "item",
+    "type_meaning": "(n) khoản, mục, món (đồ), đơn vị",
+    "example": "Do you think i can get all these items into one bag?"
+  },
+  {
+    "word": "mandatory",
+    "type_meaning": "(adj) tính bắt buộc",
+    "example": "The jewerly store has a _____ policy of showing customers only once item at a time."
+  },
+  {
+    "word": "merchandise",
+    "type_meaning": "(n) hàng hoá",
+    "example": "I am very impressed with the selection of _____ at this store."
+  },
+  {
+    "word": "strict",
+    "type_meaning": "(adj) chính xác, nghiêm ngặt",
+    "example": "There is a _____ limit of four item per person that can be taken into the changing room."
+  },
+  {
+    "word": "trend",
+    "type_meaning": "(n) xu hướng, mốt, cái đang thịnh hành",
+    "example": "The clothing store tries to stay on top of all the new _____s"
+  },
+  {
+    "word": "diverse",
+    "type_meaning": "(adj) đa dạng, gồm nhiều loại khác nhau",
+    "example": "The Office Supply Warehouse offers a _____ range of office supplies."
+  },
+  {
+    "word": "enterprise",
+    "type_meaning": "(n) hãnh kinh doanh",
+    "example": "This _____ has become unmanageable and is beginning to lose money."
+  },
+  {
+    "word": "essential",
+    "type_meaning": "(adj) cần thiết, không thể thiếu được",
+    "example": "Having Ann on this team is _____ if we are to win the contract."
+  },
+  {
+    "word": "everyday",
+    "type_meaning": "(adj) hàng ngày, thông thường",
+    "example": "This _____ routine of having to check inventrory is boring."
+  },
+  {
+    "word": "function",
+    "type_meaning": "(v) hoạt động, thực hiện chức năng",
+    "example": "She _____ed as the director while Mr. Gibbs was away."
+  },
+  {
+    "word": "maintain",
+    "type_meaning": "(v) tiếp tục, duy trì, giữ vững",
+    "example": "Trying to _____ two different stockrooms is to much work."
+  },
+  {
+    "word": "obtain",
+    "type_meaning": "(v) đạt được, giành được",
+    "example": "I've been trying to _____ a list of supplies from the administrators for three weeks now."
+  },
+  {
+    "word": "prerequisite",
+    "type_meaning": "(n) điều cần có trước hết, điều kiện tiên quyết",
+    "example": "One of the _____s for this job is competence in book-keeping."
+  },
+  {
+    "word": "quality",
+    "type_meaning": "(n) phẩm chất, đặc tính",
+    "example": "The most important _____es we look for in a supplier are reliability and quick response."
+  },
+  {
+    "word": "smooth",
+    "type_meaning": "(adj) trôi chảy, êm thấm, hoà nhã",
+    "example": "Her _____ manner won her the appreciation of the manager but not her colleagues"
+  },
+  {
+    "word": "source",
+    "type_meaning": "(n) nguồn, nguồn gốc",
+    "example": "I can't tell you the ____ of this information."
+  },
+  {
+    "word": "stationery",
+    "type_meaning": "(n) đồ dùng văn phòng",
+    "example": "We do not have enough _____, so please order some more."
+  },
+  {
+    "word": "accurate",
+    "type_meaning": "(adj) chính xác",
+    "example": "He counted the boxes three times to ensure his that figure was _____."
+  },
+  {
+    "word": "carrier",
+    "type_meaning": "(n) người chuyển hàng, người đưa thư",
+    "example": "Lou, our favorite _____, takes extra care of our boxes marked fragile."
+  },
+  {
+    "word": "catalog",
+    "type_meaning": "(n) bảng liệt kê mục lục; (v) ghi vào mục lục, chia từng loại",
+    "example": "Ellen _____ed the complaints according to severity."
+  },
+  {
+    "word": "fulfill",
+    "type_meaning": "(v) thực hiện, hoàn thành",
+    "example": "The engineers _____ed a client's request for larger display screens."
+  },
+  {
+    "word": "integral",
+    "type_meaning": "(adj) không thể thiếu",
+    "example": "Good customer relation is an _____ component of any business."
+  },
+  {
+    "word": "inventory",
+    "type_meaning": "(n) hàng hoá tồn kho, bảng kê hàng hoá, danh mục hàng hoá",
+    "example": "Their _____ had not changed much over the years, which made the customers feel bored."
+  },
+  {
+    "word": "minimize",
+    "type_meaning": "(v) giảm tới mức tối thiểu, đánh giá thấp",
+    "example": "The shipping staff _____ ed customer complaints by working overtime to deliver the packages quickly."
+  },
+  {
+    "word": "on hand",
+    "type_meaning": "(adj) có sẵn để dùng",
+    "example": "The new employee will be _____ if we need more help with shipping orders."
+  },
+  {
+    "word": "remember",
+    "type_meaning": "(v) nhớ, ghi nhớ, nhớ lại",
+    "example": "I will _____ the combination to the safe without writing it down."
+  },
+  {
+    "word": "ship",
+    "type_meaning": "(v) chuyển đi, gửi đi",
+    "example": "Very few customers think about how their parkages will be _____ed, and are seldom home when the parkages arrive."
+  },
+  {
+    "word": "sufficient",
+    "type_meaning": "(adj) đủ",
+    "example": "The postage on that box is not _____ to get it to its destination."
+  },
+  {
+    "word": "supply",
+    "type_meaning": "(v) cung cấp, đáp ứng nhu cầu; (n) kho dự trữ",
+    "example": "By making better use of our _____ es, we can avoid ordering until next month."
+  },
+  {
+    "word": "charge",
+    "type_meaning": "(v) tính giá; (n) tiền phải trả",
+    "example": "The extra _____ for gift wrapping your purchase will appear in your invoice."
+  },
+  {
+    "word": "compile",
+    "type_meaning": "(v) thu thập tài liệu",
+    "example": "I have _____ed a list of the most popular items in our sale catalog."
+  },
+  {
+    "word": "customer",
+    "type_meaning": "(n) khách hàng",
+    "example": "Let's make sure all invoices sent to _____s and are kept in alphabetical order."
+  },
+  {
+    "word": "discount",
+    "type_meaning": "(v) giảm giá, triết khấu; (n) sự giảm giá",
+    "example": "We are offering a 10 percent _____ to all new customers."
+  },
+  {
+    "word": "efficient",
+    "type_meaning": "(adj) hiệu quả",
+    "example": "Electronic invoicing has helped us to be _____."
+  },
+  {
+    "word": "estimate",
+    "type_meaning": "(v) đánh giá, ước lượng; (n) sự đánh giá",
+    "example": "We _____ed our looses this year at about five thousand dollars."
+  },
+  {
+    "word": "impose",
+    "type_meaning": "(v) bắt chịu, (+ on, upon) gây tác động mạnh tới",
+    "example": "The company will _____ a surcharge for any items returned."
+  },
+  {
+    "word": "mistake",
+    "type_meaning": "(n) lỗi",
+    "example": "I made a _____ in adding up your bill and we overcharged you twenty dollars."
+  },
+  {
+    "word": "order",
+    "type_meaning": "(n) đơn đặt hàng; (v) đặt hàng",
+    "example": "The customer placed an _____ for ten new chairs."
+  },
+  {
+    "word": "prompt",
+    "type_meaning": "(adj) nhanh chóng, ngay tức thì; (n) kỳ hạn trả nợ",
+    "example": "I want a _____ reply to my letter of complaint."
+  },
+  {
+    "word": "rectify",
+    "type_meaning": "(v) sửa lại cho đúng",
+    "example": "He _____ed the problem by giving the customer credit for the unused items that she returned."
+  },
+  {
+    "word": "terms",
+    "type_meaning": "(n) điều kiện, điều khoản",
+    "example": "The _____ of payment were clearly listed at the bottom of the invoice."
+  },
+  {
+    "word": "adjust",
+    "type_meaning": "(v) điều chỉnh, dàn xếp, làm cho thích hợp",
+    "example": "The stockroom clerk _____ed the cooking pots on the shelf so they would be easier to count during inventory."
+  },
+  {
+    "word": "automatic",
+    "type_meaning": "(adj) tự động",
+    "example": "The _____ foot massager was so popular, we couldn't keep it in stock."
+  },
+  {
+    "word": "crucial",
+    "type_meaning": "(adj) quan trọng, nổi bật",
+    "example": "Inventory is a _____ process and must be taken seriously by all staffs."
+  },
+  {
+    "word": "discrepancy",
+    "type_meaning": "(n) sự khác nhau, sự không thống nhất, sự bất đồng",
+    "example": "The _____ between the two counts was easily explained."
+  },
+  {
+    "word": "disturb",
+    "type_meaning": "(v) gây trở ngại, làm phiềm, quấy rầy",
+    "example": "I hope I'm not _____ing you , but I need to ask you to move so I can record the products behind you."
+  },
+  {
+    "word": "liability",
+    "type_meaning": "(n) nghĩa vụ, bổn phận, trách nhiệm pháp lý",
+    "example": "The store's insured _____ protects against theft and damaged inventory."
+  },
+  {
+    "word": "reflect",
+    "type_meaning": "(v) phản chiếu, phản ánh",
+    "example": "An inaccurate inventory count _____s poorly on the store."
+  },
+  {
+    "word": "run",
+    "type_meaning": "(v) hoạt động",
+    "example": "As long as the computer is _____ing, you can keep adding new data."
+  },
+  {
+    "word": "scan",
+    "type_meaning": "(v) nhìn lướt, quét",
+    "example": "Jasmine quickly _____ed the list to see if any information was missing."
+  },
+  {
+    "word": "subtract",
+    "type_meaning": "(v) lấy đi, trừ đi",
+    "example": "Once you ring up an item, the computer automatically _____s it from the inventory log."
+  },
+  {
+    "word": "tedious",
+    "type_meaning": "(adj) tẻ nhạt, thiếu hấp dẫn",
+    "example": "Counting merchandise all weekend is the most _____ job I can imagine."
+  },
+  {
+    "word": "verify",
+    "type_meaning": "(v) xác minh, thẩm tra, kiểm lại",
+    "example": "I can't _____ the accuracy of these numbers, since I was not present for inventory weekend."
+  },
+  {
+    "word": "accept",
+    "type_meaning": "(v) chấp nhận, thừa nhận",
+    "example": "Without hesitating, she _____ed the job of teller."
+  },
+  {
+    "word": "balance",
+    "type_meaning": "(n) số dư tài khoản; bản quyết toán thu chi; (v) quyết toán, cân đối tài khoản",
+    "example": "It took him over an hour to _____ his checkbook."
+  },
+  {
+    "word": "borrow",
+    "type_meaning": "(v) vay, mượn",
+    "example": "The couple _____ed money from the bank to buy a home."
+  },
+  {
+    "word": "cautious",
+    "type_meaning": "(adj) thận trọng",
+    "example": "The bank manager was _____ when giving out information to people she dit not know."
+  },
+  {
+    "word": "deduct",
+    "type_meaning": "(v) lấy đi, trừ đi",
+    "example": "Before computing his taxes, Christophe remembered to _____ allowable home improvement expenses."
+  },
+  {
+    "word": "dividend",
+    "type_meaning": "(n) tiền lãi cổ phần",
+    "example": "The _____ was calculated and distributed to the group."
+  },
+  {
+    "word": "down payment",
+    "type_meaning": "(n) khoản tiền đặt cọc trả trước (trong 1 hợp đồng trả góp)",
+    "example": "Karl was disappointed when the real estate agent told him he needed a large _____ on the house."
+  },
+  {
+    "word": "mortgage",
+    "type_meaning": "(n) tài sản thế chấp, tiền thế chấp; (v) cầm cố, thế nợ",
+    "example": "Due to low interest rates, Sheila moved quickly to find a good deal on a _____."
+  },
+  {
+    "word": "restriction",
+    "type_meaning": "(n) sự hạn chế. sự giới hạn",
+    "example": "There is a strict _____ on the number of free withdrawals a customer can make on his account each month."
+  },
+  {
+    "word": "signature",
+    "type_meaning": "(n) chữ ký",
+    "example": "The customers' _____ were kept on file for identification purposes."
+  },
+  {
+    "word": "take out",
+    "type_meaning": "(v) thu hồi, rút lui",
+    "example": "My checking account allows me to _____ money at any bank branch without a fee."
+  },
+  {
+    "word": "transaction",
+    "type_meaning": "(n) công việc kinh doanh, giao dịch",
+    "example": "Banking _____s will appear on your monthly statement."
+  },
+  {
+    "word": "accounting",
+    "type_meaning": "(n) sự tính toán, công tác kế toán",
+    "example": "_____ for expenses is time-consuming."
+  },
+  {
+    "word": "accumulate",
+    "type_meaning": "(v) cộng dồn; tích luỹ lại",
+    "example": "The bills started to _____ after secretary quit."
+  },
+  {
+    "word": "asset",
+    "type_meaning": "(n) tài sản",
+    "example": "The company's _____ are worth millions of dollars."
+  },
+  {
+    "word": "audit",
+    "type_meaning": "(n) công việc kiểm toán, sự kiểm tra sổ sách; (v) kiểm toán",
+    "example": "No one looks forward to an _____ by government."
+  },
+  {
+    "word": "budget",
+    "type_meaning": "(n) ngân sách, ngân quỹ",
+    "example": "If the development group doesn't cut back expenses, they'll be over the _____."
+  },
+  {
+    "word": "build up",
+    "type_meaning": "(v) làm tăng theo thời gian, tăng theo thời gian",
+    "example": "The firm has _____ a solid reputation for itself."
+  },
+  {
+    "word": "client",
+    "type_meaning": "(n) khách hàng",
+    "example": "We must provide excellent services for our _____s, otherwise we will lose them to our competition."
+  },
+  {
+    "word": "debt",
+    "type_meaning": "(n) món nợ, khoản nợ",
+    "example": "The banks are worried about your incresing _____."
+  },
+  {
+    "word": "outstanding",
+    "type_meaning": "(adj) còn tồn tại, chưa giải quyết xong",
+    "example": "That client still has several _____ bills."
+  },
+  {
+    "word": "profitable",
+    "type_meaning": "(adj) có lợi, sinh lãi",
+    "example": "Our accounting department has helped us to become more _____."
+  },
+  {
+    "word": "reconcile",
+    "type_meaning": "(v) làm thích hợp, làm phù hợp",
+    "example": "The client used his bank statements to _____ his accounts."
+  },
+  {
+    "word": "turnover",
+    "type_meaning": "(n) sự luân chuyển vốn; số lượng công nhân thay thế (những người thôi việc trong một thời gian nhất định)",
+    "example": "We have to add another production shift to keep up with the high _____ rate."
+  },
+  {
+    "word": "aggressive",
+    "type_meaning": "(adj) quyết đoán; cạnh tranh",
+    "example": "Wall Street is a very _____ atmosphere where only the strong survive."
+  },
+  {
+    "word": "attitude",
+    "type_meaning": "(n) thái độ",
+    "example": "Each investor should assess his or her own _____ toward investment."
+  },
+  {
+    "word": "commitment",
+    "type_meaning": "(n) sự cam kết",
+    "example": "The president made a _____ to his employees that they would be given shares of stock if the company was successful."
+  },
+  {
+    "word": "conservative",
+    "type_meaning": "(adj) dè dặt, thận trọng",
+    "example": "Generally, older people should be more _____ in their investing than younger people."
+  },
+  {
+    "word": "fund",
+    "type_meaning": "(n) quỹ; (v) cấp vốn, tài trợ",
+    "example": "The company will _____ the trip to the conference."
+  },
+  {
+    "word": "invest",
+    "type_meaning": "(v) đầu tư",
+    "example": "Don't _____ all of your time in just one project."
+  },
+  {
+    "word": "long-term",
+    "type_meaning": "(adj) dài hạn, lâu dài",
+    "example": "The CEO's _____ goal was to increase the return on investment."
+  },
+  {
+    "word": "portfolio",
+    "type_meaning": "(n) danh mục đầu tư. danh mục vốn đầu tư",
+    "example": "Investors are advised to have diverse _____s."
+  },
+  {
+    "word": "pull out",
+    "type_meaning": "(v) rút khỏi, rút lui; (n) sự rút khỏi",
+    "example": "The _____ of the bank has left the company without financing."
+  },
+  {
+    "word": "resource",
+    "type_meaning": "(v) tài sản, tài nguyên",
+    "example": "The company's most valuable _____ was its staff."
+  },
+  {
+    "word": "return",
+    "type_meaning": "(n) tiền lời; doanh lợi, thu nhập",
+    "example": "Some investor are satisfied with a 15 percent _____, while others want to see a much larger_____."
+  },
+  {
+    "word": "wise",
+    "type_meaning": "(adj) thông thái, sáng suốt, có kinh nghiệm, hiểu biết nhiều",
+    "example": "Are you sure it was a _____ decision to pull out all of your investments."
+  },
+  {
+    "word": "calculate",
+    "type_meaning": "(v) tính toán",
+    "example": "You should _____ how much the party will cost."
+  },
+  {
+    "word": "deadline",
+    "type_meaning": "(n) hạn chót, hạn cuối cùng",
+    "example": "The _____ was to tight and they couldn't finish the project."
+  },
+  {
+    "word": "file",
+    "type_meaning": "(n) hồ sơ, tài liệu; dãy người (xếp hàng)",
+    "example": "The police have a large _____ on the suspected thief."
+  },
+  {
+    "word": "fill out",
+    "type_meaning": "(v) hoàn thành",
+    "example": "_____ the form and turn it in at the front desk."
+  },
+  {
+    "word": "give up",
+    "type_meaning": "(v) từ bỏ",
+    "example": "I _____ smoking last year."
+  },
+  {
+    "word": "joint",
+    "type_meaning": "(adj) chung, chia sẻ, cùng",
+    "example": "We opened a _____ account five years ago."
+  },
+  {
+    "word": "owe",
+    "type_meaning": "(v) nợ, phải trả nợ",
+    "example": "I am sorry, I _____ you an explanation."
+  },
+  {
+    "word": "penalty",
+    "type_meaning": "(n) hình phạt, khoản tiền phạt",
+    "example": "Anyone who pays less than they should in taxes will face a _____."
+  },
+  {
+    "word": "prepare",
+    "type_meaning": "(v) chuẩn bị",
+    "example": "Are you _____ed for the challenges of this new job?"
+  },
+  {
+    "word": "refund",
+    "type_meaning": "(n) tiền trả lại; (v) hoàn lại",
+    "example": "With the tax _____, we bought two plane tickets/"
+  },
+  {
+    "word": "spouse",
+    "type_meaning": "(n) chồng, vợ",
+    "example": "You may invite your _____ to the company party."
+  },
+  {
+    "word": "withhold",
+    "type_meaning": "(v) kìm lại, giữ lại, giấu",
+    "example": "My employer _____s money from each paycheck to apply toward my income taxes."
+  },
+  {
+    "word": "desired",
+    "type_meaning": "(adj) muốn có",
+    "example": "The _____ outcome of a projected budget is increased control over the business."
+  },
+  {
+    "word": "detail",
+    "type_meaning": "(v) trình bày tỉ mỉ, chi tiết",
+    "example": "The office manager _____ed each step of inventory process at the staff meeting."
+  },
+  {
+    "word": "forecast",
+    "type_meaning": "(v) dự đoán, dự báo; (n) sự dự đoán",
+    "example": "Analysts _____ a strong economic outlook."
+  },
+  {
+    "word": "level",
+    "type_meaning": "(n) mức, cấp độ",
+    "example": "The meeting was only open to staff at the assistant director _____ or higher."
+  },
+  {
+    "word": "overall",
+    "type_meaning": "(adj) toàn bộ, toàn thể, nói chung, nhìn chung",
+    "example": "_____, our costs are running true to prediction."
+  },
+  {
+    "word": "perspective",
+    "type_meaning": "(n) viễn cảnh, triển vọng",
+    "example": "The budget statement will give the manager some _____ on where the costs of running the business are to be found."
+  },
+  {
+    "word": "projected",
+    "type_meaning": "(adj) mang tính chất ước tính (dựa trên số liệu hiện có)",
+    "example": "The manager was distressed at the _____ number of staff hours to be paid on the next payroll cycle."
+  },
+  {
+    "word": "realistic",
+    "type_meaning": "(adj) có óc thực tế",
+    "example": "_____ expectations are important when you review your financial statements."
+  },
+  {
+    "word": "target",
+    "type_meaning": "(n) mục tiêu; (v) đặt mục tiêu",
+    "example": "Most managers _____ desired income as the primary criterion for success."
+  },
+  {
+    "word": "translation",
+    "type_meaning": "(n) sự chuyển, sự dịch, bản dịch",
+    "example": "The _____ of the statement from Japanese into English was very helpful."
+  },
+  {
+    "word": "typical",
+    "type_meaning": "(adj) tiêu biểu, đặc thù",
+    "example": "Part of a category summary is defining the expenses that are _____ to the business in question."
+  },
+  {
+    "word": "yield",
+    "type_meaning": "(n) sản lượng, lợi nhuận; (v) sinh lợi",
+    "example": "The company's investment _____ed high returns."
+  },
+  {
+    "word": "adjacent",
+    "type_meaning": "(adj) gần kề, sát ngay",
+    "example": "Take the elevator to the third floor and my office is _____ to the receptionist area."
+  },
+  {
+    "word": "collaboration",
+    "type_meaning": "(n) sự cộng tác",
+    "example": "The manager had never seen such effective _____ between two group."
+  },
+  {
+    "word": "concentrate",
+    "type_meaning": "(v) tập trung",
+    "example": "She should _____ her efforts on the last quarter of the year."
+  },
+  {
+    "word": "conducive",
+    "type_meaning": "(adj) đưa đến, dẫn đến/ có ích, có lợi",
+    "example": "Arranging chairs so that participants can see each other easily is _____ to open communication."
+  },
+  {
+    "word": "disrupt",
+    "type_meaning": "(v) làm gián đoán, ngắt",
+    "example": "The strike _____ed the factory's production."
+  },
+  {
+    "word": "hamper",
+    "type_meaning": "(v) cản trở, ngăn trở, làm vướng",
+    "example": "The lack of supplies _____ed our ability to finish on schedule."
+  },
+  {
+    "word": "inconsiderate",
+    "type_meaning": "(adj) thô lỗ, bất lịch sự, thiếu suy nghĩ",
+    "example": "Playing loud music in the office is _____ and will not be tolerated."
+  },
+  {
+    "word": "lobby",
+    "type_meaning": "(n) phòng giải lao, phòng chờ",
+    "example": "The reception area was moved from the _____ of the building to the third floor."
+  },
+  {
+    "word": "move up",
+    "type_meaning": "(v) thăng tiến, thúc đẩy",
+    "example": "In order to _____ in the company, employees had to demonstrate their loyalty."
+  },
+  {
+    "word": "open to",
+    "type_meaning": "(adj) dễ tiếp thu, dễ lĩnh hội",
+    "example": "What I valued most in my previous suppervisor was that she was always _____ ideas and suggestions."
+  },
+  {
+    "word": "opt",
+    "type_meaning": "(v) chọn, quyết định chọn (= decide on)",
+    "example": "If Mary _____s to joint that department, you will be working together."
+  },
+  {
+    "word": "scrutinize",
+    "type_meaning": "(v) nhìn kỹ, xem xét kỹ lưỡng, nghiên cứu cẩn thận",
+    "example": "After three months of _____ing the employee's work, the manager decided that he had, in fact, improved quite considerably."
+  },
+  {
+    "word": "adhere to",
+    "type_meaning": "(v) tôn trọng, giữ vững, tuân thủ",
+    "example": "The chairman never _____ his own rules."
+  },
+  {
+    "word": "agenda",
+    "type_meaning": "(n) chương trình nghị sự",
+    "example": "The board was able to cover fifteen items on the _____."
+  },
+  {
+    "word": "bring up",
+    "type_meaning": "(v) đề cập tới (1 chủ đề...)",
+    "example": "Just as the meeting was about to finish, the manager _____ a controversial issue."
+  },
+  {
+    "word": "conclude",
+    "type_meaning": "(v) kết thúc, kết luận",
+    "example": "After long discussions, the board has _____ed that the project has to be canceled."
+  },
+  {
+    "word": "go ahead",
+    "type_meaning": "(v) tiếp tục làm; (n) sự cho phép làm",
+    "example": "Five of the six members felt that they should _____ with the plan."
+  },
+  {
+    "word": "goal",
+    "type_meaning": "(n) mục tiêu, mục đích",
+    "example": "Employees are expected to analyze and evaluate their annual _____s."
+  },
+  {
+    "word": "lengthy",
+    "type_meaning": "(adj) xa, dài, dài dong",
+    "example": "After _____ discussions, the chairperson was reelected for another term."
+  },
+  {
+    "word": "matter",
+    "type_meaning": "(n) vấn đề, đề tài, nội dung",
+    "example": "This is not the place to bring up personal _____s."
+  },
+  {
+    "word": "periodically",
+    "type_meaning": "(adv) một cách định kỳ",
+    "example": "The group tried to meet _____."
+  },
+  {
+    "word": "priority",
+    "type_meaning": "(n) quyền ưu tiên, sự ưu tiên hàng đầu",
+    "example": "The manager was ineffective because she was unable to set _____es."
+  },
+  {
+    "word": "progress",
+    "type_meaning": "(n) tiến độ, tiến trình, sự tiến bộ",
+    "example": "_____ is being made on the annual report; we expect to see a finished product by next week."
+  },
+  {
+    "word": "waste",
+    "type_meaning": "(v) lãng phí; (n) rác, vật không có giá trị",
+    "example": "Withour a leader, the group members _____ed time and energy trying organize themselves."
+  },
+  {
+    "word": "brand",
+    "type_meaning": "(n) mác sản phẩm, nhãn hàng",
+    "example": "All _____s of aspirin are the same."
+  },
+  {
+    "word": "conform",
+    "type_meaning": "(v) làm cho phù hợp, làm cho thích hợp",
+    "example": "Our safety standards _____ to those established by the government."
+  },
+  {
+    "word": "defect",
+    "type_meaning": "(n) sự sai sót, khuyết điểm, lỗi",
+    "example": "Because of a _____ in stitching, the entire suit was thrown out."
+  },
+  {
+    "word": "enhance",
+    "type_meaning": "(v) làm tăng, làm nổi bật",
+    "example": "A stylist color _____s appeal of a car."
+  },
+  {
+    "word": "garment",
+    "type_meaning": "(n) hàng may mặc",
+    "example": "Every _____ must be carefully inspected for defects before it is shipped."
+  },
+  {
+    "word": "inspect",
+    "type_meaning": "(v) kiểm tra, thanh tra, theo dõi",
+    "example": "A quality control agent who does not _____ every product carefully can ruin his company's reputation."
+  },
+  {
+    "word": "perceive",
+    "type_meaning": "(v) hiểu được, nhận thức được, lĩnh hội",
+    "example": "Every employee who enjoys profit sharing _____s his job as quality control."
+  },
+  {
+    "word": "repel",
+    "type_meaning": "(v) khước từ, cự tuyệt, đẩy lùi",
+    "example": "Umbrellas that do not _____ water should never be passed through quality control."
+  },
+  {
+    "word": "take back",
+    "type_meaning": "(v) nhận lại, rút lại",
+    "example": "Good quality control significantly limits the number of products _____ for a refund."
+  },
+  {
+    "word": "throw out",
+    "type_meaning": "(v) vứt bỏ",
+    "example": "It is cheaper to _____ shoddy products than to lose customers."
+  },
+  {
+    "word": "uniform",
+    "type_meaning": "(adj) đồng dạng, cùng kiểu",
+    "example": "A successful company wil ensure _____ quality of its products."
+  },
+  {
+    "word": "wrinkle",
+    "type_meaning": "(n) nếp gấp (vải, quần áo)",
+    "example": "A _____ in the finish can be repaired more economically before a sale that after."
+  },
+  {
+    "word": "anxious",
+    "type_meaning": "(adj) lo lắng; băn khoăn",
+    "example": "The developers were _____ about the sales forecast for the new product."
+  },
+  {
+    "word": "ascertain",
+    "type_meaning": "(v) tìm hiểu chắc chắn, xác định",
+    "example": "A customer survey will help to _____ whether there is a market for the product."
+  },
+  {
+    "word": "assume",
+    "type_meaning": "(v) cho là đúng, thừa nhận",
+    "example": "The young man felt ready to _____ the new responsibilities of his promotion."
+  },
+  {
+    "word": "decade",
+    "type_meaning": "(n) thập kỷ",
+    "example": "Each _____ seems to have its own fad products"
+  },
+  {
+    "word": "examine",
+    "type_meaning": "(v) nghiên cứu, khảo sát",
+    "example": "Before marketing a new product, researchers must carefully _____ it from every aspect."
+  },
+  {
+    "word": "experiment",
+    "type_meaning": "(v) thí nghiệm, thử nghiệm; (n) sự thử, phép thử, cuộc thí nghiệm",
+    "example": "Product developers must conduct hundreds of _____ in their research."
+  },
+  {
+    "word": "logical",
+    "type_meaning": "(adj) hợp lý, theo lô gíc",
+    "example": "It is only _____ for research and development team to concentrate on one or two new products at a time."
+  },
+  {
+    "word": "research",
+    "type_meaning": "(n) sự nghiên cứu",
+    "example": "For toy manufacturers, _____ can be pure fun."
+  },
+  {
+    "word": "responsibility",
+    "type_meaning": "(n) bổn phận, nhiệm vụ, trách nhiệm",
+    "example": "Another _____ of product development is to ensure that there will be a demand for the product."
+  },
+  {
+    "word": "solve",
+    "type_meaning": "(v) giải quyết, tháo gỡ (vấn đề)",
+    "example": "One of the biggest problems to _____ is why people would want to own the new product."
+  },
+  {
+    "word": "supervisor",
+    "type_meaning": "(n) người giám sát",
+    "example": "A good _____ gets his team to work with him, not just for him."
+  },
+  {
+    "word": "systematic",
+    "type_meaning": "(adj) có hệ thống, có phương pháp",
+    "example": "Any researcher know that creative thinking is necessary, but _____ analysis is indispensable."
+  },
+  {
+    "word": "apprehensive",
+    "type_meaning": "(adj) lo lắng, sợ hãi (về tương lai)",
+    "example": "The mortgage lender was _____ about the company's ability to pay."
+  },
+  {
+    "word": "circumstance",
+    "type_meaning": "(n) điều kiện, hoàn cảnh, tình huống",
+    "example": "Under the current economic _____s, they will not be able to purchase the property."
+  },
+  {
+    "word": "condition",
+    "type_meaning": "(n) điều kiện",
+    "example": "There are certain _____s that are unique to leasing a property."
+  },
+  {
+    "word": "due to",
+    "type_meaning": "(prep) bởi vì, do",
+    "example": "_____ the low interest rates, good office space is difficult to find."
+  },
+  {
+    "word": "fluctuate",
+    "type_meaning": "(v) dao động, biến động tăng giảm",
+    "example": "No one is very comfortable making a large investment while the currency values _____ almost daily."
+  },
+  {
+    "word": "get out of",
+    "type_meaning": "(v) trốn thoát, đi ra",
+    "example": "The company wanted to _____ the area before property values declined even futher."
+  },
+  {
+    "word": "indicator",
+    "type_meaning": "(n) vật chỉ thị, tín hiệu, dấu hiệu",
+    "example": "The results of the elections was seen as an important _____ of the stability in the area."
+  },
+  {
+    "word": "lease",
+    "type_meaning": "(n) hợp đồng cho thuê, (v) thuê, cho thuê",
+    "example": "They decided to _____ the property rather than buy it."
+  },
+  {
+    "word": "lock into",
+    "type_meaning": "(v) cam kết",
+    "example": "Before you ___yourself ___ something, check all your options."
+  },
+  {
+    "word": "occupancy",
+    "type_meaning": "(n) sự chiếm đóng, sự cư ngụ",
+    "example": "The _____ rate in the building has never fallen below 85 percent."
+  },
+  {
+    "word": "option",
+    "type_meaning": "(n) sự lựa chọn",
+    "example": "With the real estate market so tight right now, you don't have that many _____s."
+  },
+  {
+    "word": "subject to",
+    "type_meaning": "(adj) khuất phục, tuân thủ, phụ thuộc",
+    "example": "This contract is _____ all the laws regulations of the state."
+  },
+  {
+    "word": "appeal",
+    "type_meaning": "(adj) hấp dẫn, lôi cuốn",
+    "example": "The colorful vegetable made the dish look _____ing."
+  },
+  {
+    "word": "arrive",
+    "type_meaning": "(v) đến nơi",
+    "example": "By the time our meal _____ed, it was cold."
+  },
+  {
+    "word": "compromise",
+    "type_meaning": "(n) sự thoả hiệp",
+    "example": "The couple made a _____ and ordered food for take out."
+  },
+  {
+    "word": "daring",
+    "type_meaning": "(adj) táo bạo, liều lĩnh",
+    "example": "Ordering the raw squid seemed quite a _____ thing to do."
+  },
+  {
+    "word": "familiar",
+    "type_meaning": "(adj) quen thuộc, thông thường",
+    "example": "It's nice to see some _____ items on the menu."
+  },
+  {
+    "word": "guide",
+    "type_meaning": "(n) người hướng dẫn, người chỉ dẫn",
+    "example": "The _____ led our tour group to a small restaurant only known to the locals."
+  },
+  {
+    "word": "majority",
+    "type_meaning": "(n) phần lớn, đa số",
+    "example": "The _____ of the group wanted to try the new Chinese restaurant."
+  },
+  {
+    "word": "mix",
+    "type_meaning": "(v) trộn lẫn, hoà vào nhau; (n) hỗn hợp",
+    "example": "The _____ of bright colors on the plate was very pleasing."
+  },
+  {
+    "word": "rely",
+    "type_meaning": "(v) tin cậy, dựa vào",
+    "example": "I have always ____ed on the restaurant advice this guidebook gives."
+  },
+  {
+    "word": "secure",
+    "type_meaning": "(v) đạt được, chiếm được, tìm được, đảm bảo",
+    "example": "The hostess _____ed us another chair, so we could eat together."
+  },
+  {
+    "word": "subjective",
+    "type_meaning": "(adj) chủ quan",
+    "example": "The reviews in this guidebook are highly _____, but fun to read."
+  },
+  {
+    "word": "suggest",
+    "type_meaning": "(v) đề nghị",
+    "example": "I _____ you think about the specials, since they are very good today."
+  },
+  {
+    "word": "basic",
+    "type_meaning": "(adj) cơ bản, cơ sở",
+    "example": "The new restaurant offers a very _____ menu."
+  },
+  {
+    "word": "complete",
+    "type_meaning": "(adj) đầy đủ, trọn vẹn, hoàn toàn",
+    "example": "The new restaurant offers a _____ menu of appetizers, entrees, and desserts."
+  },
+  {
+    "word": "excite",
+    "type_meaning": "(v) kích thích, kích động, đánh thức cảm xúc",
+    "example": "Exotic flavors always _____ me."
+  },
+  {
+    "word": "flavor",
+    "type_meaning": "(n) mùi vị",
+    "example": "The cook changed the _____ of the soup with a unique blend of herbs."
+  },
+  {
+    "word": "forget",
+    "type_meaning": "(v) quên",
+    "example": "The waiter _____ to bring rolls, anoying the custormer."
+  },
+  {
+    "word": "ingredient",
+    "type_meaning": "(n) thành phần (của 1 hỗn hợp)",
+    "example": "I was unfamiliar with some of the _____ in the dish."
+  },
+  {
+    "word": "judge",
+    "type_meaning": "(v) phán đoán, đánh giá",
+    "example": "The restaurant review harshly _____ed the quality of the service."
+  },
+  {
+    "word": "mix-up",
+    "type_meaning": "(n) tình trạng lộn xộn, cuộc ẩu đả.",
+    "example": "There was a _____ in the kitchen so your order will be delayed."
+  },
+  {
+    "word": "patron",
+    "type_meaning": "(n) khách hàng quen, khách hàng thường xuyên",
+    "example": "Once the word was out about the new chef, _____s lines up to get into the restaurant."
+  },
+  {
+    "word": "predict",
+    "type_meaning": "(v) nói trước, báo trước, dự đoán",
+    "example": "I _____ed this restaurant would become popular and I was right."
+  },
+  {
+    "word": "random",
+    "type_meaning": "(adj) ngẫn nhiên, tình cờ",
+    "example": "We made _____ selections from the menu."
+  },
+  {
+    "word": "remind",
+    "type_meaning": "(v) nhắc nhở, làm nhớ lại",
+    "example": "Ms. Smith was annoyed at having to _____ the waitress to bring the check."
+  },
+  {
+    "word": "burdensome",
+    "type_meaning": "(adj) nặng nề, gánh nặng",
+    "example": "The ______ load made the deliveryman's back ache."
+  },
+  {
+    "word": "common",
+    "type_meaning": "(adj) phổ biến, thông thường",
+    "example": "It is _____ for the office manager to be designated to order lunch for business meetings."
+  },
+  {
+    "word": "delivery",
+    "type_meaning": "(n) sự phân phát, sự giao hàng",
+    "example": "The restaurant is reluctant to make _____es, but makes exception for your office."
+  },
+  {
+    "word": "elegant",
+    "type_meaning": "(adj) thanh lịch, tao nhã, thơm ngon (món ăn)",
+    "example": "The lunch we ordered was not _____, but it wwas hearty."
+  },
+  {
+    "word": "fall to",
+    "type_meaning": "(v) là trách nhiệm (của...)",
+    "example": "The task of preparing the meal _____ the assistant chef when chief chef was ill."
+  },
+  {
+    "word": "impress",
+    "type_meaning": "(v) gây ấn tượng, làm cảm kích",
+    "example": "I was _____ed with how quickly they deliveried our lunch."
+  },
+  {
+    "word": "individual",
+    "type_meaning": "(adj) riêng lẻ, cá nhân, độc đáo, đặc biệt",
+    "example": "He had the delivery man mark the contents of each _____ order."
+  },
+  {
+    "word": "list",
+    "type_meaning": "(n) danh sách; (v) lập danh sách",
+    "example": "The office manager compiled a _____ of everyone's order."
+  },
+  {
+    "word": "multiple",
+    "type_meaning": "(adj) nhiều, phức tạp",
+    "example": "It takes _____ steps to get into this building, which frustrates all our employees."
+  },
+  {
+    "word": "narrow",
+    "type_meaning": "(v) thu hẹp; (adj) chật hẹp, eo hẹp",
+    "example": "The restaurant has a _____ range of choice, but can offer fast delivery."
+  },
+  {
+    "word": "pick up",
+    "type_meaning": "(v) đảm nhiệm, nhận làm",
+    "example": "If you ask me nicely, I will _____ the order on may way home."
+  },
+  {
+    "word": "settle",
+    "type_meaning": "(v) xác định (nơi chốn); thanh toán (hoá đơn), trả (tiền)",
+    "example": "We _____ed the bill with the cashier."
+  },
+  {
+    "word": "accustom to",
+    "type_meaning": "(v) làm cho quen, tập cho quen",
+    "example": "Chefs must _____ themselves to working long hours."
+  },
+  {
+    "word": "apprentice",
+    "type_meaning": "(n) người học việc, sinh viên tập sự",
+    "example": "Instead of attending cooking school, Raul chose to work as an _____ with a experienced chef."
+  },
+  {
+    "word": "culinary",
+    "type_meaning": "(adj) liên quan tới bếp núc",
+    "example": "His interest in ____ arts drew him to a commercial foods program."
+  },
+  {
+    "word": "demanding",
+    "type_meaning": "(adj) đòi hỏi khắt khe",
+    "example": "Theodore was exhausted by his _____ job in the restaurant."
+  },
+  {
+    "word": "draw",
+    "type_meaning": "(v) lôi kéo, thu hút",
+    "example": "We hope the new restaurant will _____ other business to the area."
+  },
+  {
+    "word": "incorporate",
+    "type_meaning": "(v) sát nhập, kết hợp",
+    "example": "Here are the fresh greens for you to _____ into a salad."
+  },
+  {
+    "word": "influx",
+    "type_meaning": "(n) sự chảy vào, sự tràn vào",
+    "example": "An _____ of new chefs is constantly needed to fill open jobs."
+  },
+  {
+    "word": "method",
+    "type_meaning": "(n) phương pháp, thủ tục",
+    "example": "Gloria perfected a simple _____ for making croissants."
+  },
+  {
+    "word": "outlet",
+    "type_meaning": "(n) lối thoát; phương tiện thoả mãn (chí hướng)",
+    "example": "Even before he became a professional baker, Jacob used baking as an _____ for frustration."
+  },
+  {
+    "word": "profession",
+    "type_meaning": "(n) nghề nghiệp",
+    "example": "Coooking is considered as much a _____ as is law or medicine."
+  },
+  {
+    "word": "relinquish",
+    "type_meaning": "(v) từ bỏ, giao, dâng, nộp",
+    "example": "People find it hard to _____ their accustomed food preferences and try something new."
+  },
+  {
+    "word": "theme",
+    "type_meaning": "(n) đề tài, chủ đề",
+    "example": "The caterers prepared food for a party with a tropical island theme."
+  },
+  {
+    "word": "assist",
+    "type_meaning": "(v) giúp đỡ, trợ giúp",
+    "example": "Bonnie hired a secretary to _____ her with the many details of the event."
+  },
+  {
+    "word": "coordinate",
+    "type_meaning": "(v) phối hợp, sắp xếp (công việc)",
+    "example": "The colors of the flowers were ordered to _____ with the colors in the corporate logo."
+  },
+  {
+    "word": "dimension",
+    "type_meaning": "(n) kích thước (dài, rộng, cao...)",
+    "example": "What are the _____s of the ballroom?"
+  },
+  {
+    "word": "exact",
+    "type_meaning": "(adj) chính xác, đúng đắn",
+    "example": "We will need an _____ head count by noon tomorrow."
+  },
+  {
+    "word": "general",
+    "type_meaning": "(adj) chung chung, tổng quát",
+    "example": "We have a _____ idea of how many guests will attend."
+  },
+  {
+    "word": "ideal",
+    "type_meaning": "(adj) lý tưởng, tồn tại trong tưởng tượng",
+    "example": "The _____ location for the concert would have plenty of parking."
+  },
+  {
+    "word": "lead time",
+    "type_meaning": "(n) tiến độ (thời gian giữa lúc bắt đầu và lúc hoàn thành 1 quá trình sản xuất)",
+    "example": "We will need to give the caterer enough _____ to cut the cake."
+  },
+  {
+    "word": "plan",
+    "type_meaning": "(n) kế hoạch; (v) lên kế hoạch",
+    "example": "The _____ is to gather tomorrow to discuss the menu."
+  },
+  {
+    "word": "proximity",
+    "type_meaning": "(n) sự lân cận, trạng thái gần",
+    "example": "The fans were worried by the _____ of the storm clouds."
+  },
+  {
+    "word": "regulation",
+    "type_meaning": "(n) quy định, quy tắc, điều lệ; (v) điều khiển, điều tiết",
+    "example": "We followed all the state _____s for food safety."
+  },
+  {
+    "word": "site",
+    "type_meaning": "(n) nơi, chỗ; (v) đặt, để",
+    "example": "Once we saw the _____, we knew it would be perfect for the event."
+  },
+  {
+    "word": "stage",
+    "type_meaning": "(v) trình diễn",
+    "example": "A historic house can be the perfect site to _____ a small reception."
+  },
+  {
+    "word": "agency",
+    "type_meaning": "(n) đại lý, chi nhánh, sở, hãng",
+    "example": "Once we decided we wanted to go to Costa Rica for vacation, we called the travel _____ to see how much flights would cost."
+  },
+  {
+    "word": "announcement",
+    "type_meaning": "(n) lời tuyên bố, cáo thị, lời thông báo",
+    "example": "Did you hear an _____ about our new departure time."
+  },
+  {
+    "word": "beverage",
+    "type_meaning": "(n) đồ uống",
+    "example": "The flight attendant offered all passengers a cold _____ during the flight."
+  },
+  {
+    "word": "blanket",
+    "type_meaning": "(n) chăn; (v) phủ lên, che phủ, trùm chăn",
+    "example": "The snow _____ed the windshield, making ti diffucult to see the road."
+  },
+  {
+    "word": "board",
+    "type_meaning": "(v) lên tàu/ ăn cơm trọ",
+    "example": "We will _____ the train for New York in ten minutes."
+  },
+  {
+    "word": "claim",
+    "type_meaning": "(v) đòi hỏi, yêu sách, thỉnh cầu/ lấy lại, tìm lại được (vật đã mất)",
+    "example": "Lost luggage can be _____ed at the airline office."
+  },
+  {
+    "word": "delay",
+    "type_meaning": "(v) trì hoãn; (n) khoảng thời gian trì hoãn",
+    "example": "The bus was _____ed due to inclement weather."
+  },
+  {
+    "word": "depart",
+    "type_meaning": "(v) rời khỏi, khởi hành/ sao lãng, đi lệch",
+    "example": "After thw wedding, the married couple _____ed for their honeymoon in Morocco."
+  },
+  {
+    "word": "embark",
+    "type_meaning": "(v) lên tàu/ bắt đầu",
+    "example": "They were nervous, but also excited, to _____ on a long-awaited trip to Africa."
+  },
+  {
+    "word": "itinerary",
+    "type_meaning": "(n) nhật ký đường đi; lịch trình",
+    "example": "I had to change my _____ when I decided to add two more countries to my vacation."
+  },
+  {
+    "word": "prohibit",
+    "type_meaning": "(n) cấm, ngăn cấm",
+    "example": "We were _____ed from wearing casual clothes in the office."
+  },
+  {
+    "word": "valid",
+    "type_meaning": "(adj) có hiệu lực, hợp lệ",
+    "example": "I need to make certain that my passport is ____ if we plan to go overseas this December."
+  },
+  {
+    "word": "deal with",
+    "type_meaning": "(v) chú trọng, chăm lo/ giải quyết, xoay sở",
+    "example": "Ticket agents must _____ courteously with irate customers."
+  },
+  {
+    "word": "destination",
+    "type_meaning": "(n) đích, điểm đến",
+    "example": "The Great Barrier Reef is a popular tourist _____ this year."
+  },
+  {
+    "word": "distinguish",
+    "type_meaning": "(v) phân biệt",
+    "example": "Suki was able to _____ between the different types of jets on the runway."
+  },
+  {
+    "word": "economical",
+    "type_meaning": "(adj) tiết kiệm, kinh tế",
+    "example": "There are a number of more _____ ways to get to Tokyo from here."
+  },
+  {
+    "word": "equivalent",
+    "type_meaning": "(adj) tương đương",
+    "example": "The food the airline serves in coach class is _____ to that served in first class."
+  },
+  {
+    "word": "excursion",
+    "type_meaning": "(n) cuộc đi tham quan (với giá hạ có định hạn ngày đi và ngày về)",
+    "example": "The finance officer was pleased to find an _____ for the entire consulting team."
+  },
+  {
+    "word": "expensive",
+    "type_meaning": "(adj) đắt",
+    "example": "The shops in the airport are convenient, but I think they are _____."
+  },
+  {
+    "word": "extend",
+    "type_meaning": "(v) kéo dài, mở rộng/ dành cho (sự đón tiếp)",
+    "example": "We _____ ed our vacation by a day."
+  },
+  {
+    "word": "prospective",
+    "type_meaning": "(adj) thuộc tương lai, sẽ tới về sau",
+    "example": "I narrow my list of _____ destinations to my three top choices."
+  },
+  {
+    "word": "situation",
+    "type_meaning": "(n) tình thế, trạng thái",
+    "example": "The vast number of different air fares available makes for a complicated _____."
+  },
+  {
+    "word": "substantial",
+    "type_meaning": "(adj) giàu có, có tài sản, quan trọng, có giá trị lớn.",
+    "example": "There is a _____ difference in the price for the two air fares."
+  },
+  {
+    "word": "system",
+    "type_meaning": "(n) hệ thống",
+    "example": "The airline _____ covers the entire world with flights."
+  },
+  {
+    "word": "comprehensive",
+    "type_meaning": "(adj) bao gồm, kể cả/ sáng ý",
+    "example": "Our travel agent have us a _____ travel package, including rail passes."
+  },
+  {
+    "word": "deluxe",
+    "type_meaning": "(adj) sang trọng, xa xỉ",
+    "example": "My parents decided to splurge on _____ accommodations for their trip."
+  },
+  {
+    "word": "directory",
+    "type_meaning": "(n) sách hướng dẫn, sách chỉ dẫn",
+    "example": "We consulted the _____ to see where the train station was located."
+  },
+  {
+    "word": "duration",
+    "type_meaning": "(n) khoảng thời gian (tồn tại 1 sự việc)",
+    "example": "Mother lend me her spare jacket for the _____ of the trip."
+  },
+  {
+    "word": "entitle",
+    "type_meaning": "(v) cho quyền",
+    "example": "During the holiday rush, a train ticket _____ed the passenger to a ride, but not necessarily a seat."
+  },
+  {
+    "word": "fare",
+    "type_meaning": "(n) tiền xe, vé (tàu, xe, máy bay)",
+    "example": "The train _____ has increased since i rode last."
+  },
+  {
+    "word": "offset",
+    "type_meaning": "(v) đền bù, bù đắp",
+    "example": "By reducing her transportation costs once in the United States, Mrs, Sato _____ the cost of getting to this country."
+  },
+  {
+    "word": "operate",
+    "type_meaning": "(v) hoạt động, thực hiện chức năng",
+    "example": "The trains _____s on a punctual schedule."
+  },
+  {
+    "word": "punctual",
+    "type_meaning": "(adj) đúng giờ",
+    "example": "Please be on time. the train leaves _____ly at noon."
+  },
+  {
+    "word": "relatively",
+    "type_meaning": "(adv) hơi, tương đối",
+    "example": "The train is _____ empty for this time of day."
+  },
+  {
+    "word": "remainder",
+    "type_meaning": "(n) phần còn lại, chỗ còn lại, số dư",
+    "example": "We will move you to a less expensive room and credit the _____ of what you've already paid to your charge card."
+  },
+  {
+    "word": "remote",
+    "type_meaning": "(adj) xa, xa xôi, hẻo lánh",
+    "example": "I was surprised to find train service to such a _____ location."
+  },
+  {
+    "word": "advance",
+    "type_meaning": "(n) sự tiến bộ",
+    "example": "Every _____ in technology was evident throughout the hotel's computerized functions."
+  },
+  {
+    "word": "chain",
+    "type_meaning": "(n) chuỗi, dây chuyền (làm việc)",
+    "example": "The hotel being built in Seoul is the newest one in the _____."
+  },
+  {
+    "word": "check in",
+    "type_meaning": "(v) đăng ký tên (khách sạn, sân bay)",
+    "example": "Patrons _____ at the hotel immediately upon their arrival."
+  },
+  {
+    "word": "confirm",
+    "type_meaning": "(v) xác nhận, phê chuẩn",
+    "example": "Jorge called the hotel to _____ that he had a room reservation."
+  },
+  {
+    "word": "expect",
+    "type_meaning": "(v) mong chờ, trông mong/ nghĩ rằng, cho rằng, chắc rằng",
+    "example": "Mr. Kim _____ed that the bed linens would be changed daily."
+  },
+  {
+    "word": "housekeeper",
+    "type_meaning": "(n) người coi nhà, người quản gia",
+    "example": "Eloise's first job at the hotel was as a ____ and now she is the manager."
+  },
+  {
+    "word": "notify",
+    "type_meaning": "(v) khai báo, thông báo, cho biết",
+    "example": "Lydia _____ed the hotel in writing that she was canceling her reservation."
+  },
+  {
+    "word": "preclude",
+    "type_meaning": "(v) ngăn ngừa, loại trừ",
+    "example": "The horrible rainstorm _____ed us from traveling any further."
+  },
+  {
+    "word": "quote",
+    "type_meaning": "(v) trích dẫn, định giá; (n) đoạn trích dẫn, lời trích dẫn",
+    "example": "We were _____d a price of $89 for the room for one night."
+  },
+  {
+    "word": "rate",
+    "type_meaning": "(n) loại, hạng, sự đánh giá, sự xếp hạng",
+    "example": "The _____ for the hotel room is too high considering how few services are available on-site."
+  },
+  {
+    "word": "reserve",
+    "type_meaning": "(n) đặt; giữ trước, để dành",
+    "example": "The bride and groom _____ed a block of rooms at the hotel for guests comming to their wedding from out of town."
+  },
+  {
+    "word": "service",
+    "type_meaning": "(n) dịch vụ; sự phục vụ",
+    "example": "Mr. Rockmont called room _____ to order a late-night snack."
+  },
+  {
+    "word": "busy",
+    "type_meaning": "(adj) bận rộn/ náo nhiệt, đông đúc",
+    "example": "The airport was busy, with people catching plants and heading for car rentel companies."
+  },
+  {
+    "word": "coincide",
+    "type_meaning": "(v) xảy ra đồng thời, trùng khớp với nhau",
+    "example": "Sean was hoping that the days for the special discount on car rentals would _____ with his vacation, but they did not."
+  },
+  {
+    "word": "confusion",
+    "type_meaning": "(n) sự mơ hồ, sự rối rắm",
+    "example": "To avoid any ____ about renting the car, Yolanda asked her travel agent to make the arrangements on her behalf."
+  },
+  {
+    "word": "contact",
+    "type_meaning": "(v) liên hệ, liên lạc",
+    "example": "Manuel _____ed at least a dozen car rental agencies to get the best deal."
+  },
+  {
+    "word": "disappoint",
+    "type_meaning": "(v) làm thất vọng",
+    "example": "I hate to _____ you, but i can't allow you to rent a car unless you have a major credit card."
+  },
+  {
+    "word": "intend",
+    "type_meaning": "(v) có ý định, có ý muốn",
+    "example": "Do you _____ to return the car to this location or to another location?"
+  },
+  {
+    "word": "license",
+    "type_meaning": "(n) giấy phép",
+    "example": "First, I'll need to see your driver's _____ and a major credit card."
+  },
+  {
+    "word": "nervous",
+    "type_meaning": "(adj) dễ bị kích thích, nóng nảy, hay hoảng sợ",
+    "example": "Lonnie is _____ about driving in the city, so I volunteered to drive that part of the trip."
+  },
+  {
+    "word": "optional",
+    "type_meaning": "(adj) tuỳ chọn, không bắt buộc",
+    "example": "Having a driver's license is not _____."
+  },
+  {
+    "word": "tempt",
+    "type_meaning": "(v) cám dỗ, quyến rũ",
+    "example": "I am _____ed by the idea of driving across the country instead of flying."
+  },
+  {
+    "word": "thrill",
+    "type_meaning": "(n) sự rùng mình (hoảng sợ), sự rộn ràng (vì vui sướng)",
+    "example": "The thought of renting a sports car gave John a _____."
+  },
+  {
+    "word": "tier",
+    "type_meaning": "(n) tầng, lớp, bậc",
+    "example": "If you are on a budget, I suggest you think about renting a car from our lowest _____."
+  },
+  {
+    "word": "attain",
+    "type_meaning": "(v) đến tới, đạt được",
+    "example": "The director ____ his goal of an Academy Award."
+  },
+  {
+    "word": "combine",
+    "type_meaning": "(v) kết hợp, phối hợp",
+    "example": "The director _____ed two previously separate visual techniques."
+  },
+  {
+    "word": "continue",
+    "type_meaning": "(v) tiếp tục, tiếp diễn, duy tri",
+    "example": "The film _____s the story set out in an earlier film."
+  },
+  {
+    "word": "description",
+    "type_meaning": "(n) sự mô tả, sự diễn tả",
+    "example": "The _____ of the film did not match what we saw on screen."
+  },
+  {
+    "word": "disperse",
+    "type_meaning": "(v) rắc, gieo rắc, truyền (tin)",
+    "example": "The reporters _____ed after the press agent cancelled the interview with the film director."
+  },
+  {
+    "word": "entertainment",
+    "type_meaning": "(n) sự giải trí, sự tiêu khiển",
+    "example": "The movie was provided for our _____."
+  },
+  {
+    "word": "influence",
+    "type_meaning": "(v) ảnh hưởng, tác động",
+    "example": "The editor's style _____ed a generation of film editors."
+  },
+  {
+    "word": "range",
+    "type_meaning": "(n) phạm vi, lĩnh vực",
+    "example": "The _____ of the director's vision is impressive."
+  },
+  {
+    "word": "release",
+    "type_meaning": "(v) phát hành, cấp phép",
+    "example": "The film was finally _____ed to movie theaters after many delays."
+  },
+  {
+    "word": "represent",
+    "type_meaning": "(v) tiêu biểu cho, tượng trưng cho, đại diện cho",
+    "example": "The actor _____ed the ideals of the culture."
+  },
+  {
+    "word": "seperate",
+    "type_meaning": "(adj) riêng rẽ. tách rời",
+    "example": "The financial and artistic team are usually in _____ divisions."
+  },
+  {
+    "word": "successive",
+    "type_meaning": "(adj) kế tiếp, liên tục, lần lượt",
+    "example": "Somehow the _____ images were interrupted and had to be edited again."
+  },
+  {
+    "word": "action",
+    "type_meaning": "(n) hành động; quá trình diễn biến (của vở kichj)",
+    "example": "The _____ on stage was spellbinding."
+  },
+  {
+    "word": "approach",
+    "type_meaning": "(v) tiếp cận, lại gần; (n) sự tiếp cận, cách tiếp cận",
+    "example": "The director's _____ to the play was controversial."
+  },
+  {
+    "word": "audience",
+    "type_meaning": "(n) khán giả, người xem",
+    "example": "The _____ cheered the actors as they walked off the stage."
+  },
+  {
+    "word": "create",
+    "type_meaning": "(v) sáng tạo, tạo nên",
+    "example": "The writer ____ed the characters to represent the seven deadly sins."
+  },
+  {
+    "word": "dialogue",
+    "type_meaning": "(n) cuộc hội thoại",
+    "example": "The written _____ seemed great, but was hard to perform."
+  },
+  {
+    "word": "element",
+    "type_meaning": "(n) yếu tố, cơ sở",
+    "example": "The audience is an essential _____ of live theater."
+  },
+  {
+    "word": "experience",
+    "type_meaning": "(n) kinh nghiệm, điều đã trải qua",
+    "example": "Going to the theatre was not part of Claude's _____ growing up."
+  },
+  {
+    "word": "occur",
+    "type_meaning": "(v) xảy ra, xuất hiện",
+    "example": "The murder in the play occurs in the second act."
+  },
+  {
+    "word": "perform",
+    "type_meaning": "(v) trình diễn, biểu diễn",
+    "example": "Juan _____ed the role without forgetting any lines."
+  },
+  {
+    "word": "rehearse",
+    "type_meaning": "(v) diễn tập, tập kịch",
+    "example": "The players _____ed for only three weeks before the show opened."
+  },
+  {
+    "word": "review",
+    "type_meaning": "(n) sự phê bình, bài phê bình (cuốn sách, vở kịch); (v) phê bình",
+    "example": "The newspaper sent a rank amatuer to _____ the play."
+  },
+  {
+    "word": "sold out",
+    "type_meaning": "(adj) bán hết (vé, hàng)",
+    "example": "We expect that this play will be a smash and _____ quickly."
+  },
+  {
+    "word": "available",
+    "type_meaning": "(adj) có sẵn, sẵn sàng để dùng",
+    "example": "I checked the list of _____ compact discs before ordering."
+  },
+  {
+    "word": "broad",
+    "type_meaning": "(adj) rộng, bao la, mênh mông",
+    "example": "The history of music covers a _____ range of culture and ethnicity."
+  },
+  {
+    "word": "category",
+    "type_meaning": "(n) hạng, loại",
+    "example": "Jazz is one of many _____es of music."
+  },
+  {
+    "word": "disparate",
+    "type_meaning": "(adj) khác hẳn nhau, khác loại",
+    "example": "Religious songs cut across _____ categories of music."
+  },
+  {
+    "word": "divide",
+    "type_meaning": "(v) chia, phân chia, tách rời",
+    "example": "The broad topic of music can be _____ed into manageable parts, such as themes, styles, or centuries."
+  },
+  {
+    "word": "favorite",
+    "type_meaning": "(adj) được ưa thích, được ưa chuộng",
+    "example": "Hearing the jazz trio in such a large hall is not my _____ way to enjoy them."
+  },
+  {
+    "word": "instinct",
+    "type_meaning": "(n) bản năng",
+    "example": "The student's ability to play the cello was so natural, it seemed an _____."
+  },
+  {
+    "word": "preference",
+    "type_meaning": "(n) sự thiên vị, sự ưu tiên, sự thích hơn",
+    "example": "His musical _____ were for contemporary popular music."
+  },
+  {
+    "word": "reason",
+    "type_meaning": "(n) lý do",
+    "example": "We'll never understand the ____ why some music is popular and some is not."
+  },
+  {
+    "word": "relaxation",
+    "type_meaning": "(n) sự nghỉ ngơi, sự giải trí",
+    "example": "Listening to soothing music before bedtime provides good _____."
+  },
+  {
+    "word": "taste",
+    "type_meaning": "(n) sự nếm (thức ăn), khả năng nhận thức (vị), khiếu thẩm mĩ, khẩu vị",
+    "example": "This music does not appeal to my _____s; but I'm old fashioned."
+  },
+  {
+    "word": "urge",
+    "type_meaning": "(v) nài nỉ, cố thuyết phục/ thúc giục; (n) sự ham muốn mạnh mẽ",
+    "example": "I get the urge to play the guitar every time I pass a music store window."
+  },
+  {
+    "word": "acquire",
+    "type_meaning": "(v) đạt được, giành được, thu được, kiếm được",
+    "example": "The museum _____ed a Van Gogh during heavy bidding."
+  },
+  {
+    "word": "admire",
+    "type_meaning": "(v) ngưỡng mộ",
+    "example": "Raisa, _____ing the famous smile, stood before the Mona Lisa for hours"
+  },
+  {
+    "word": "collection",
+    "type_meaning": "(n) bộ sưu tập, sự sưu tầm",
+    "example": "The museum's _____ contained many works donated by famous collectors"
+  },
+  {
+    "word": "criticism",
+    "type_meaning": "(n) sự phê bình, lời bình phẩm",
+    "example": "The revered artist's _____ of the piece was particularly insighful."
+  },
+  {
+    "word": "express",
+    "type_meaning": "(v) biểu lộ (cảm xúc), bày tỏ (ý kiến)",
+    "example": "The photograph _____es a range of emotions."
+  },
+  {
+    "word": "fashion",
+    "type_meaning": "(n) mốt, thời trang, kiểu cách",
+    "example": "The museum's classical architecture has never gone out of _____."
+  },
+  {
+    "word": "leisure",
+    "type_meaning": "(n) thời gian rảnh rỗi, thì giờ rỗi rãi",
+    "example": "We can go to the permanent collection at our _____."
+  },
+  {
+    "word": "respond",
+    "type_meaning": "(v) trả lời, đáp ứng, phản ứng lại",
+    "example": "You should _____ to the invitation to attend the museum gala."
+  },
+  {
+    "word": "schedule",
+    "type_meaning": "(n) lịch trình làm việc, thời gian biểu; (n) lập thời gian biểu, lên lịch làm việc",
+    "example": "The museum offers a _____ of guided tours."
+  },
+  {
+    "word": "significant",
+    "type_meaning": "(adj) đầy ý nghĩ, quan trọng đáng kể",
+    "example": "The use of lambs to symbolize innocence is _____ in Western art."
+  },
+  {
+    "word": "specialize",
+    "type_meaning": "(v) chuyên về, chuyên môn hoá",
+    "example": "The museum shop _____s in Ming vases."
+  },
+  {
+    "word": "spectrum",
+    "type_meaning": "(n) một dãy, một chuỗi",
+    "example": "The whole _____ of artistic expression was represented in the water-color."
+  },
+  {
+    "word": "assignment",
+    "type_meaning": "(n) sự phân công, sự giao việc, việc được giao",
+    "example": "When the reporter is on _____, research piles up on her desk."
+  },
+  {
+    "word": "choose",
+    "type_meaning": "(v) chọn, lựa",
+    "example": "I did not _____ that candidate to be the editor of our student newspaper."
+  },
+  {
+    "word": "constant",
+    "type_meaning": "(n) hằng số; (adj) không đổi",
+    "example": "People _____ly look to the news to keep up-to-date on what is going on in the world."
+  },
+  {
+    "word": "constitute",
+    "type_meaning": "(v) cấu thành",
+    "example": "All the different news sources _____ the media industry."
+  },
+  {
+    "word": "decisive",
+    "type_meaning": "(adj) quả quyết; dứt khoát",
+    "example": "Newspaper editors must be _____ when determining which stories go on the front page."
+  },
+  {
+    "word": "disseminate",
+    "type_meaning": "(v) gieo rắc; phổ biến, khuếch tán",
+    "example": "The media _____ news across the world."
+  },
+  {
+    "word": "impact",
+    "type_meaning": "(n) sự tác động, sự ảnh hưởng; (v) tác động mạnh vào",
+    "example": "The story of the presidential scandal had a huge _____ on the public."
+  },
+  {
+    "word": "in-depth",
+    "type_meaning": "(adj) tỉ mỉ, kỹ lưỡng, chu đáo, triệt để, hoàn toàn",
+    "example": "The newspaper gave _____ coverage of the tragic bombing."
+  },
+  {
+    "word": "investigative",
+    "type_meaning": "(adj) thuộc điều tra nghiên cứu (về thông tin bị che giấu), thuộc tìm hiểu sự thật",
+    "example": "He is one of the most famous _____ reporters."
+  },
+  {
+    "word": "link",
+    "type_meaning": "(n) mối liên hệ, sự liên kết",
+    "example": "The computer _____s will take you to today's headlines"
+  },
+  {
+    "word": "subcriber",
+    "type_meaning": "(v) đặt mua dài hạn; (n) thuê bao, người đặt mua",
+    "example": "Jill _____s to a gardening magazine."
+  },
+  {
+    "word": "thorough",
+    "type_meaning": "(adj) hoàn toàn, kỹ lưỡng",
+    "example": "The story was the result of _____ research."
+  },
+  {
+    "word": "annual",
+    "type_meaning": "(adj) hàng năm",
+    "example": "I try to schedule my _____ physical right after my birthday."
+  },
+  {
+    "word": "appointment",
+    "type_meaning": "(n) sự hẹn gặp, chức vụ được bổ nhiệm",
+    "example": "To get the most out of your _____, keep a log of your symptoms and concerns."
+  },
+  {
+    "word": "assess",
+    "type_meaning": "(v) định giá, đánh giá",
+    "example": "The insurance rate Mr. Victor was _____ed went up this year after he admitted that he had started smoking again."
+  },
+  {
+    "word": "diagnose",
+    "type_meaning": "(v) chẩn đoán (bệnh)",
+    "example": "She _____ed the problem as a failure to follow the directions for taking the medication."
+  },
+  {
+    "word": "effective",
+    "type_meaning": "(adj) có kết quả, có hiệu lực",
+    "example": "The new policies, _____ the beginning of the fiscal year, change the amount charged to see the physician."
+  },
+  {
+    "word": "instrument",
+    "type_meaning": "(n) công cụ, phương tiên, trang thiết bị",
+    "example": "The senior physician carried his _____s in a black leather bag."
+  },
+  {
+    "word": "manage",
+    "type_meaning": "(v) giải quyết, điều khiển, dạy bảo",
+    "example": "The head nurse's ability to _____ her staff through a difficult time caught the hospital administrator's attention."
+  },
+  {
+    "word": "prevent",
+    "type_meaning": "(v) cản trở, gây trở ngại",
+    "example": "His full caseload _____ed the doctor from taking on new patients."
+  },
+  {
+    "word": "recommend",
+    "type_meaning": "(v) khuyên, tiến cử",
+    "example": "The doctor _____ed that Edwin take off at last a week to rest and regain his health."
+  },
+  {
+    "word": "record",
+    "type_meaning": "(n) hồ sơ, biên bản, sự ghi chép",
+    "example": "Ms. Han typed a written request for her medical _____s."
+  },
+  {
+    "word": "refer",
+    "type_meaning": "(v) ám chỉ, nhắc đến",
+    "example": "As soon as Agnes ____ed to the failed treatment, everyone's mood soured."
+  },
+  {
+    "word": "serious",
+    "type_meaning": "(adj) nghiêm trọng, trầm trọng",
+    "example": "The impact of the _____ news could be read on everyone's face."
+  },
+  {
+    "word": "aware",
+    "type_meaning": "(adj) biết, nhận thấy",
+    "example": "My dentist made me _____ that I should have an appointment twice a year."
+  },
+  {
+    "word": "catch up",
+    "type_meaning": "(v) đuổi kịp, bắt kịp",
+    "example": "The dental assistant ______ on her paperwork in between patients."
+  },
+  {
+    "word": "distraction",
+    "type_meaning": "(n) sự xao lãng, sự mất tập trung, sự đãng trí, sự giải trí, thú tiêu khiển",
+    "example": "To provide a ______ from the noise, Luisa's dentist offered her a pair of earphones"
+  },
+  {
+    "word": "encouragement",
+    "type_meaning": "(n) sự động viên, sự khuyến khích",
+    "example": "Let me offer you some _____ about your crooked teeth."
+  },
+  {
+    "word": "evident",
+    "type_meaning": "(adj) hiển nhiên, rõ ràng",
+    "example": "The presence of a wisdom tooth was not _____ until the dentist started to examine the patient."
+  },
+  {
+    "word": "habit",
+    "type_meaning": "(n) thói quen",
+    "example": "The patient had a _____ of grinding his teeth during his sleep."
+  },
+  {
+    "word": "illuminate",
+    "type_meaning": "(v) giải thích, giảng giải, làm sáng tỏ",
+    "example": "Let me turn on more lights to properly ______ the back teeth."
+  },
+  {
+    "word": "irritate",
+    "type_meaning": "(v) chọc tức, kích thích (y học)",
+    "example": "The broken tooth rubbed againsts my tongue, _____ing it."
+  },
+  {
+    "word": "overview",
+    "type_meaning": "(n) tổng quan, sự khái quát",
+    "example": "I did a quick _____ of your teeth and they look in good shape."
+  },
+  {
+    "word": "position",
+    "type_meaning": "(n) vị trí, tư thế, địa vị",
+    "example": "Let me tilt your head to a more comfortable _____ for you."
+  },
+  {
+    "word": "regularly",
+    "type_meaning": "(adv) thường xuyên, đều đặn, theo quy tắc",
+    "example": "She brushes _____ after every meal."
+  },
+  {
+    "word": "restore",
+    "type_meaning": "(v) phục hồi",
+    "example": "The cleaning _____ed the whiteness of my teeth."
+  },
+  {
+    "word": "allow",
+    "type_meaning": "(v) cho phép, chấp nhận",
+    "example": "My insurance does not _____ me to choose my own hospital."
+  },
+  {
+    "word": "alternative",
+    "type_meaning": "(n) sự lựa chọn (một trong hai); phương án thay thế",
+    "example": "I'd like to know the _____ to this treatment before I agree to it."
+  },
+  {
+    "word": "aspect",
+    "type_meaning": "(n) khía cạnh, mặt, diện mạo",
+    "example": "The _____ of HMOs that people most dislike is the lack of personal service."
+  },
+  {
+    "word": "concern",
+    "type_meaning": "(v) liên quan, dính líu, quan tâm; (n) việc phải lo",
+    "example": "Whenever I have health _____s, I call my doctor."
+  },
+  {
+    "word": "emphasize",
+    "type_meaning": "(v) nhấn mạnh, đề cao",
+    "example": "The nurse _____ed the importance of eating a balanced diet."
+  },
+  {
+    "word": "incur",
+    "type_meaning": "(v) hình thành, ra đời, thừa hưởng",
+    "example": "Dominic _____s the cost of a co-payment at each doctor's visit"
+  },
+  {
+    "word": "personnel",
+    "type_meaning": "(n) nhân viên, công chức",
+    "example": "The office manager insteaded that she need more _____ to finish the project on time."
+  },
+  {
+    "word": "policy",
+    "type_meaning": "(n) chính sách",
+    "example": "Company _____ did not provide for overtime pay."
+  },
+  {
+    "word": "portion",
+    "type_meaning": "(n) phần, đoạn, khúc",
+    "example": "A _____ of my benefits is my health care coverage."
+  },
+  {
+    "word": "regardless",
+    "type_meaning": "(adj) bất chấp, mặc dù",
+    "example": "_____ of the cost, we all need health insurance."
+  },
+  {
+    "word": "salary",
+    "type_meaning": "(n) lương tháng",
+    "example": "The receptionist believed that he worked too hard for such a small _____."
+  },
+  {
+    "word": "suitable",
+    "type_meaning": "(adj) phù hợp, thích ứng",
+    "example": "I have finally found a health plan that is _____ for my needs."
+  },
+  {
+    "word": "admit",
+    "type_meaning": "(v) cho vào, nhận vào",
+    "example": "The staff refused to _____ the patient until he had proof of insurance."
+  },
+  {
+    "word": "authorization",
+    "type_meaning": "(n) sự cho phép, sự cấp phép, sự phê chuẩn",
+    "example": "The nurse could not submit an _____ over the phone, it had to be done in writing."
+  },
+  {
+    "word": "designate",
+    "type_meaning": "(v) chỉ định, chọn lựa, bổ nhiệm",
+    "example": "On her admittance form, Grandmother _____ed Aunt Tessa as her chief decision-maker."
+  },
+  {
+    "word": "escort",
+    "type_meaning": "(n) người dẫn đường, người đi theo, người hộ tống",
+    "example": "You cannot leave the unit on your own, you'll have to wait for an _____."
+  },
+  {
+    "word": "identify",
+    "type_meaning": "(v) xác định, định danh, nhận dạng, đồng nhất hoá, coi như nhau",
+    "example": "Your medical records are all marked with your patient number to _____ them in case of a mix-up."
+  },
+  {
+    "word": "mission",
+    "type_meaning": "(n) sứ mệnh, nhiệm vụ",
+    "example": "The hospital chaplain took as his _____ to visit every patients admitted each day."
+  },
+  {
+    "word": "permit",
+    "type_meaning": "(v) cho phép",
+    "example": "Would you check with the nurse to see if I am _____ed to eat before surgery."
+  },
+  {
+    "word": "pertinent",
+    "type_meaning": "(adj) phù hợp, có liên quan",
+    "example": "The patient's health record contained _____ information, like the dates of all his inoculations."
+  },
+  {
+    "word": "procedure",
+    "type_meaning": "(n) thủ tục, chuỗi hành động (cần được hoàn thành để thực hiện cái gì).",
+    "example": "Can the hospital to schedule this _____ for tomorrow."
+  },
+  {
+    "word": "result",
+    "type_meaning": "(n) hậu quả, kết quả",
+    "example": "Your lab _____s won't be ready for hours"
+  },
+  {
+    "word": "statement",
+    "type_meaning": "(n) bản kê khai, bản báo cáo tài chính",
+    "example": "The billing _____ was filed with the insurance company last month."
+  },
+  {
+    "word": "usual",
+    "type_meaning": "(adj) thường lệ, thường dùng",
+    "example": "It is not _____ for that kind of surgery to be performed on an outpatient basic."
+  },
+  {
+    "word": "consult",
+    "type_meaning": "(v) hỏi ý kiến, tham khảo",
+    "example": "May I _____ with you about a drug interaction case I have?"
+  },
+  {
+    "word": "control",
+    "type_meaning": "(v) chỉ huy, điều khiển, kiểm soát",
+    "example": "To _____ the cost of this medication, you may get the generic verson."
+  },
+  {
+    "word": "convenient",
+    "type_meaning": "(adj) thuận tiện, dễ dàng",
+    "example": "Is this a _____ location for you to pick up your prescription?"
+  },
+  {
+    "word": "detect",
+    "type_meaning": "(v) dò tìm, xác định",
+    "example": "My doctor put me through some simple tests to _____ if I have asthma."
+  },
+  {
+    "word": "factor",
+    "type_meaning": "(n) nhân tố, yếu tố tạo thành",
+    "example": "Could my cat be a _____ contributing to my asthma."
+  },
+  {
+    "word": "interaction",
+    "type_meaning": "(n) sự ảnh hưởng lẫn nhau, tác động qua lại",
+    "example": "The _____ between the patient and the doctor showed a high level of trust."
+  },
+  {
+    "word": "limit",
+    "type_meaning": "(n) giới hạn, hạn độ",
+    "example": "My presciption has a _____ of three refills."
+  },
+  {
+    "word": "monitor",
+    "type_meaning": "(v) theo dõi, giám sát (= keep track of)",
+    "example": "The patient had weekly appointments so that the doctor could _____ her progress."
+  },
+  {
+    "word": "potential",
+    "type_meaning": "(adj) khả năng",
+    "example": "Given the _____ delay in getting reimbursed by the health plan, why don't we just fill one prescription today?"
+  },
+  {
+    "word": "sample",
+    "type_meaning": "(n) mẫu, (v) lấy mẫu, thử mẫu",
+    "example": "The pharmacist gave Myra a few free _____s of the allergy medication."
+  },
+  {
+    "word": "sense",
+    "type_meaning": "(n) cảm giác, khả năng phán đoán",
+    "example": "I got the _____ it would be better to get my prescription filled right away."
+  },
+  {
+    "word": "volunteer",
+    "type_meaning": "(n) tình nguyện viên ; (v) xung phong làm",
+    "example": "My doctor _____ed to call the drugstore, so my medication would be waiting for me."
+  }
+]
